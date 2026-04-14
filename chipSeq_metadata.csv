@@ -1,0 +1,1117 @@
+,name,strand,Assay title,ontology_curie,biosample_name,biosample_type,biosample_life_stage,histone_mark,data_source,endedness,genetically_modified,nonzero_mean
+0,CL:0000047 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H2AFZ,encode,single,False,0.9536862373352051
+1,CL:0000047 Histone ChIP-seq H2AK5ac,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H2AK5ac,encode,single,False,0.8193653225898743
+2,CL:0000047 Histone ChIP-seq H2BK5ac,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H2BK5ac,encode,single,False,1.0392050743103027
+3,CL:0000047 Histone ChIP-seq H3K18ac,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H3K18ac,encode,single,False,1.0500943660736084
+4,CL:0000047 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,0.7851823568344116
+5,CL:0000047 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H3K27me3,encode,single,False,0.770723819732666
+6,CL:0000047 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H3K36me3,encode,single,False,0.7708343863487244
+7,CL:0000047 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,0.7552356719970703
+8,CL:0000047 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H3K4me2,encode,single,False,4.456033229827881
+9,CL:0000047 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,0.7188356518745422
+10,CL:0000047 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000047,neuronal stem cell,in_vitro_differentiated_cells,embryonic,H3K9me3,encode,single,False,0.9412810802459717
+11,CL:0000062 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0000062,osteoblast,primary_cell,unknown,H2AFZ,encode,single,False,0.8986108303070068
+12,CL:0000062 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000062,osteoblast,primary_cell,unknown,H3K27ac,encode,single,False,0.9727509021759033
+13,CL:0000062 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000062,osteoblast,primary_cell,unknown,H3K27me3,encode,single,False,1.0972812175750732
+14,CL:0000062 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000062,osteoblast,primary_cell,unknown,H3K36me3,encode,single,False,1.015264868736267
+15,CL:0000062 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000062,osteoblast,primary_cell,unknown,H3K4me1,encode,single,False,1.1814732551574707
+16,CL:0000062 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000062,osteoblast,primary_cell,unknown,H3K4me2,encode,single,False,1.0706583261489868
+17,CL:0000062 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000062,osteoblast,primary_cell,unknown,H3K4me3,encode,single,False,0.8181998133659363
+18,CL:0000062 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0000062,osteoblast,primary_cell,unknown,H3K79me2,encode,single,False,0.9088215231895447
+19,CL:0000062 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,CL:0000062,osteoblast,primary_cell,unknown,H4K20me1,encode,single,False,0.9834175109863281
+20,CL:0000084 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000084,T-cell,primary_cell,adult,H3K27ac,encode,single,False,0.9991254806518555
+21,CL:0000084 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000084,T-cell,primary_cell,adult,H3K27me3,encode,single,False,1.5949115753173828
+22,CL:0000084 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000084,T-cell,primary_cell,adult,H3K36me3,encode,single,False,1.556289553642273
+23,CL:0000084 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000084,T-cell,primary_cell,adult,H3K4me1,encode,single,False,1.8891668319702148
+24,CL:0000084 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000084,T-cell,primary_cell,adult,H3K4me3,encode,single,False,1.0828938484191895
+25,CL:0000084 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000084,T-cell,primary_cell,adult,H3K9me3,encode,single,False,1.4542584419250488
+26,CL:0000100 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000100,motor neuron,in_vitro_differentiated_cells,adult,H3K27ac,encode,paired,False,0.7073226571083069
+27,CL:0000100 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000100,motor neuron,in_vitro_differentiated_cells,adult,H3K4me1,encode,paired,False,0.7302386164665222
+28,CL:0000100 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000100,motor neuron,in_vitro_differentiated_cells,adult,H3K4me3,encode,paired,False,0.5290273427963257
+29,CL:0000127 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H2AFZ,encode,single,False,0.9853001832962036
+30,CL:0000127 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H3K27ac,encode,single,False,1.4272104501724243
+31,CL:0000127 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H3K27me3,encode,single,False,1.2708724737167358
+32,CL:0000127 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H3K36me3,encode,single,False,1.2181681394577026
+33,CL:0000127 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H3K4me1,encode,single,False,1.2631609439849854
+34,CL:0000127 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H3K4me2,encode,single,False,0.9199391603469849
+35,CL:0000127 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H3K4me3,encode,single,False,1.1788583993911743
+36,CL:0000127 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H3K79me2,encode,single,False,1.0779250860214233
+37,CL:0000127 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H3K9ac,encode,single,False,0.8123817443847656
+38,CL:0000127 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,CL:0000127,astrocyte,primary_cell,unknown,H4K20me1,encode,single,False,0.8229295611381531
+39,CL:0000134 Histone ChIP-seq H2BK120ac,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,in_vitro_differentiated_cells,embryonic,H2BK120ac,encode,single,False,1.5077080726623535
+40,CL:0000134 Histone ChIP-seq H2BK12ac,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,in_vitro_differentiated_cells,embryonic,H2BK12ac,encode,single,False,1.1039183139801025
+41,CL:0000134 Histone ChIP-seq H3K14ac,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,in_vitro_differentiated_cells,embryonic,H3K14ac,encode,single,False,1.2969588041305542
+42,CL:0000134 Histone ChIP-seq H3K18ac,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,in_vitro_differentiated_cells,embryonic,H3K18ac,encode,single,False,1.0279197692871094
+43,CL:0000134 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,0.7909675240516663
+44,CL:0000134 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,primary_cell,adult,H3K27me3,encode,single,False,1.0067557096481323
+45,CL:0000134 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,primary_cell,adult,H3K36me3,encode,single,False,0.9950606822967529
+46,CL:0000134 Histone ChIP-seq H3K4ac,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,in_vitro_differentiated_cells,embryonic,H3K4ac,encode,single,False,1.0210992097854614
+47,CL:0000134 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,primary_cell,adult,H3K4me1,encode,single,False,1.1552000045776367
+48,CL:0000134 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,primary_cell,adult,H3K4me3,encode,single,False,0.9800390601158142
+49,CL:0000134 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,primary_cell,adult,H3K9ac,encode,single,False,0.8497458100318909
+50,CL:0000134 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,primary_cell,adult,H3K9me3,encode,single,False,1.0167886018753052
+51,CL:0000134 Histone ChIP-seq H4K8ac,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,in_vitro_differentiated_cells,embryonic,H4K8ac,encode,single,False,1.4190325736999512
+52,CL:0000134 Histone ChIP-seq H4K91ac,.,Histone ChIP-seq,CL:0000134,mesenchymal stem cell,in_vitro_differentiated_cells,embryonic,H4K91ac,encode,single,False,1.3199173212051392
+53,CL:0000136 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000136,adipocyte,in_vitro_differentiated_cells,adult,H3K27me3,encode,single,False,0.963962733745575
+54,CL:0000136 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000136,adipocyte,in_vitro_differentiated_cells,adult,H3K36me3,encode,single,False,0.9868001341819763
+55,CL:0000136 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000136,adipocyte,in_vitro_differentiated_cells,adult,H3K4me1,encode,single,False,1.0046213865280151
+56,CL:0000136 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000136,adipocyte,in_vitro_differentiated_cells,adult,H3K4me3,encode,single,False,0.9553647637367249
+57,CL:0000136 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000136,adipocyte,in_vitro_differentiated_cells,adult,H3K9ac,encode,single,False,0.9475537538528442
+58,CL:0000136 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000136,adipocyte,in_vitro_differentiated_cells,adult,H3K9me3,encode,single,False,0.9842337965965271
+59,CL:0000182 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0000182,hepatocyte,in_vitro_differentiated_cells,embryonic,H2AFZ,encode,single,False,0.7985633611679077
+60,CL:0000182 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000182,hepatocyte,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,0.7550026774406433
+61,CL:0000182 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000182,hepatocyte,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,0.8030983805656433
+62,CL:0000182 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000182,hepatocyte,in_vitro_differentiated_cells,embryonic,H3K4me2,encode,single,False,0.7852492928504944
+63,CL:0000182 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000182,hepatocyte,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,0.8021527528762817
+64,CL:0000182 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0000182,hepatocyte,in_vitro_differentiated_cells,embryonic,H3K79me2,encode,single,False,0.7845624685287476
+65,CL:0000182 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000182,hepatocyte,in_vitro_differentiated_cells,embryonic,H3K9ac,encode,single,False,0.8397226333618164
+66,CL:0000188 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000188,skeletal muscle cell,primary_cell,unknown,H3K4me3,encode,single,False,2.709303379058838
+67,CL:0000192 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0000192,smooth muscle cell,in_vitro_differentiated_cells,embryonic,H2AFZ,encode,single,False,0.821370005607605
+68,CL:0000192 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000192,smooth muscle cell,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,0.839430570602417
+69,CL:0000192 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000192,smooth muscle cell,in_vitro_differentiated_cells,embryonic,H3K27me3,encode,single,False,0.8422687649726868
+70,CL:0000192 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000192,smooth muscle cell,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,0.8201920390129089
+71,CL:0000192 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000192,smooth muscle cell,in_vitro_differentiated_cells,embryonic,H3K4me2,encode,single,False,0.806756854057312
+72,CL:0000192 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000192,smooth muscle cell,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,0.8416850566864014
+73,CL:0000192 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0000192,smooth muscle cell,in_vitro_differentiated_cells,embryonic,H3K79me2,encode,single,False,0.8435471057891846
+74,CL:0000192 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000192,smooth muscle cell,in_vitro_differentiated_cells,embryonic,H3K9ac,encode,single,False,0.858325719833374
+75,CL:0000192 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,CL:0000192,smooth muscle cell,in_vitro_differentiated_cells,embryonic,H4K20me1,encode,single,False,0.8388375639915466
+76,CL:0000221 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000221,ectodermal cell,in_vitro_differentiated_cells,embryonic,H3K27me3,encode,single,False,1.1612815856933594
+77,CL:0000221 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000221,ectodermal cell,in_vitro_differentiated_cells,embryonic,H3K36me3,encode,single,False,1.5367928743362427
+78,CL:0000221 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000221,ectodermal cell,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,1.7136114835739136
+79,CL:0000221 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000221,ectodermal cell,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,1.5633736848831177
+80,CL:0000222 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000222,mesodermal cell,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,1.0044140815734863
+81,CL:0000222 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000222,mesodermal cell,in_vitro_differentiated_cells,embryonic,H3K36me3,encode,single,False,1.930644154548645
+82,CL:0000222 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000222,mesodermal cell,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,2.2661662101745605
+83,CL:0000222 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000222,mesodermal cell,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,5.64929723739624
+84,CL:0000222 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000222,mesodermal cell,in_vitro_differentiated_cells,embryonic,H3K9me3,encode,single,False,0.9807572364807129
+85,CL:0000223 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000223,endodermal cell,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,0.9079552888870239
+86,CL:0000223 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000223,endodermal cell,in_vitro_differentiated_cells,embryonic,H3K27me3,encode,single,False,0.9090101718902588
+87,CL:0000223 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000223,endodermal cell,in_vitro_differentiated_cells,embryonic,H3K36me3,encode,single,False,0.9991441965103149
+88,CL:0000223 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000223,endodermal cell,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,1.5521838665008545
+89,CL:0000223 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000223,endodermal cell,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,0.8614636063575745
+90,CL:0000223 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000223,endodermal cell,in_vitro_differentiated_cells,embryonic,H3K9me3,encode,single,False,0.9326905608177185
+91,CL:0000236 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H2AFZ,encode,single,False,1.154281735420227
+92,CL:0000236 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H3K27ac,encode,single,False,0.7319360375404358
+93,CL:0000236 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H3K27me3,encode,single,False,0.9429988265037537
+94,CL:0000236 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H3K36me3,encode,single,False,1.481370449066162
+95,CL:0000236 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H3K4me1,encode,single,False,0.7308036684989929
+96,CL:0000236 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H3K4me2,encode,single,False,1.029736876487732
+97,CL:0000236 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H3K4me3,encode,single,False,0.789939820766449
+98,CL:0000236 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H3K79me2,encode,single,False,1.1787657737731934
+99,CL:0000236 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H3K9ac,encode,single,False,0.8615202903747559
+100,CL:0000236 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000236,B cell,primary_cell,adult,H3K9me3,encode,single,False,0.916641891002655
+101,CL:0000312 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0000312,keratinocyte,primary_cell,unknown,H2AFZ,encode,single,False,0.8118183612823486
+102,CL:0000312 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000312,keratinocyte,primary_cell,unknown,H3K27ac,encode,single,False,2.179088830947876
+103,CL:0000312 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000312,keratinocyte,primary_cell,unknown,H3K36me3,encode,single,False,1.3998640775680542
+104,CL:0000312 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000312,keratinocyte,primary_cell,unknown,H3K4me1,encode,single,False,1.5928481817245483
+105,CL:0000312 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000312,keratinocyte,primary_cell,unknown,H3K4me2,encode,single,False,1.702629804611206
+106,CL:0000312 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000312,keratinocyte,primary_cell,unknown,H3K4me3,encode,single,False,0.7693329453468323
+107,CL:0000312 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0000312,keratinocyte,primary_cell,unknown,H3K79me2,encode,single,False,1.2955195903778076
+108,CL:0000312 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000312,keratinocyte,primary_cell,unknown,H3K9ac,encode,single,False,1.6849207878112793
+109,CL:0000351 Histone ChIP-seq H2AK5ac,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H2AK5ac,encode,single,False,0.8748714327812195
+110,CL:0000351 Histone ChIP-seq H2BK12ac,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H2BK12ac,encode,single,False,0.9820576906204224
+111,CL:0000351 Histone ChIP-seq H3K14ac,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K14ac,encode,single,False,0.9126267433166504
+112,CL:0000351 Histone ChIP-seq H3K18ac,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K18ac,encode,single,False,0.9578627943992615
+113,CL:0000351 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,1.0595502853393555
+114,CL:0000351 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K36me3,encode,single,False,0.8541465997695923
+115,CL:0000351 Histone ChIP-seq H3K4ac,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K4ac,encode,single,False,1.019968867301941
+116,CL:0000351 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,0.835045576095581
+117,CL:0000351 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K4me2,encode,single,False,0.8214141726493835
+118,CL:0000351 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,1.1339974403381348
+119,CL:0000351 Histone ChIP-seq H3K79me1,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K79me1,encode,single,False,1.1933636665344238
+120,CL:0000351 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H3K9me3,encode,single,False,1.1316494941711426
+121,CL:0000351 Histone ChIP-seq H4K8ac,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H4K8ac,encode,single,False,1.0251048803329468
+122,CL:0000351 Histone ChIP-seq H4K91ac,.,Histone ChIP-seq,CL:0000351,trophoblast cell,in_vitro_differentiated_cells,embryonic,H4K91ac,encode,single,False,1.682619571685791
+123,CL:0000515 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0000515,skeletal muscle myoblast,primary_cell,adult,H2AFZ,encode,single,False,0.9730600714683533
+124,CL:0000515 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000515,skeletal muscle myoblast,primary_cell,adult,H3K27ac,encode,single,False,1.3889236450195312
+125,CL:0000515 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000515,skeletal muscle myoblast,primary_cell,adult,H3K4me1,encode,single,False,1.520578145980835
+126,CL:0000515 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000515,skeletal muscle myoblast,primary_cell,adult,H3K4me2,encode,single,False,1.1785502433776855
+127,CL:0000515 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000515,skeletal muscle myoblast,primary_cell,adult,H3K4me3,encode,single,False,0.7095293402671814
+128,CL:0000515 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0000515,skeletal muscle myoblast,primary_cell,adult,H3K79me2,encode,single,False,1.056759238243103
+129,CL:0000515 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000515,skeletal muscle myoblast,primary_cell,adult,H3K9ac,encode,single,False,1.427546739578247
+130,CL:0000540 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0000540,neuron,in_vitro_differentiated_cells,embryonic,H2AFZ,encode,single,False,1.061992883682251
+131,CL:0000540 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000540,neuron,in_vitro_differentiated_cells,embryonic,H3K27me3,encode,single,False,1.1989951133728027
+132,CL:0000540 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000540,neuron,in_vitro_differentiated_cells,embryonic,H3K36me3,encode,single,False,1.4886006116867065
+133,CL:0000540 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000540,neuron,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,1.305953860282898
+134,CL:0000540 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000540,neuron,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,0.9025025963783264
+135,CL:0000594 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000594,skeletal muscle satellite cell,primary_cell,adult,H3K27me3,encode,single,False,0.9547320604324341
+136,CL:0000594 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000594,skeletal muscle satellite cell,primary_cell,adult,H3K36me3,encode,single,False,0.9158826470375061
+137,CL:0000594 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000594,skeletal muscle satellite cell,primary_cell,adult,H3K4me1,encode,single,False,1.0326128005981445
+138,CL:0000594 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0000594,skeletal muscle satellite cell,primary_cell,adult,H3K4me2,encode,single,False,0.958714485168457
+139,CL:0000594 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000594,skeletal muscle satellite cell,primary_cell,adult,H3K4me3,encode,single,False,0.8680325746536255
+140,CL:0000594 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000594,skeletal muscle satellite cell,primary_cell,adult,H3K9ac,encode,single,False,0.9965997934341431
+141,CL:0000623 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000623,natural killer cell,primary_cell,adult,H3K27ac,encode,single,False,1.1057385206222534
+142,CL:0000623 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000623,natural killer cell,primary_cell,adult,H3K36me3,encode,single,False,1.1983306407928467
+143,CL:0000623 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000623,natural killer cell,primary_cell,adult,H3K4me1,encode,single,False,1.7212512493133545
+144,CL:0000623 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000623,natural killer cell,primary_cell,adult,H3K4me3,encode,single,False,1.0924755334854126
+145,CL:0000623 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000623,natural killer cell,primary_cell,adult,H3K9me3,encode,single,False,1.444994568824768
+146,CL:0000624 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000624,"CD4-positive, alpha-beta T cell",primary_cell,adult,H3K27ac,encode,single,False,0.9602004289627075
+147,CL:0000624 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000624,"CD4-positive, alpha-beta T cell",primary_cell,adult,H3K27me3,encode,single,False,1.836999535560608
+148,CL:0000624 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000624,"CD4-positive, alpha-beta T cell",primary_cell,adult,H3K36me3,encode,single,False,1.4274044036865234
+149,CL:0000624 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000624,"CD4-positive, alpha-beta T cell",primary_cell,adult,H3K4me1,encode,single,False,1.9501261711120605
+150,CL:0000624 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000624,"CD4-positive, alpha-beta T cell",primary_cell,adult,H3K4me3,encode,single,False,1.1963306665420532
+151,CL:0000624 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000624,"CD4-positive, alpha-beta T cell",primary_cell,adult,H3K9me3,encode,single,False,1.860047459602356
+152,CL:0000625 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000625,"CD8-positive, alpha-beta T cell",primary_cell,adult,H3K27ac,encode,single,False,1.040993332862854
+153,CL:0000625 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000625,"CD8-positive, alpha-beta T cell",primary_cell,adult,H3K27me3,encode,single,False,1.77400541305542
+154,CL:0000625 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000625,"CD8-positive, alpha-beta T cell",primary_cell,adult,H3K36me3,encode,single,False,0.937209963798523
+155,CL:0000625 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000625,"CD8-positive, alpha-beta T cell",primary_cell,adult,H3K4me1,encode,single,False,1.0011892318725586
+156,CL:0000625 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000625,"CD8-positive, alpha-beta T cell",primary_cell,adult,H3K4me3,encode,single,False,1.409015417098999
+157,CL:0000625 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0000625,"CD8-positive, alpha-beta T cell",primary_cell,adult,H3K9ac,encode,single,False,1.7480512857437134
+158,CL:0000625 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000625,"CD8-positive, alpha-beta T cell",primary_cell,adult,H3K9me3,encode,single,False,1.0857267379760742
+159,CL:0000706 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000706,choroid plexus epithelial cell,primary_cell,unknown,H3K4me3,encode,single,False,2.0453009605407715
+160,CL:0000746 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000746,cardiac muscle cell,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,0.7914988994598389
+161,CL:0000746 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000746,cardiac muscle cell,in_vitro_differentiated_cells,embryonic,H3K27me3,encode,single,False,0.8161104917526245
+162,CL:0000746 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000746,cardiac muscle cell,in_vitro_differentiated_cells,embryonic,H3K36me3,encode,single,False,0.8119232654571533
+163,CL:0000746 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000746,cardiac muscle cell,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,0.793128252029419
+164,CL:0000746 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000746,cardiac muscle cell,primary_cell,unknown,H3K4me3,encode,single,False,3.5106585025787354
+165,CL:0000775 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000775,neutrophil,primary_cell,unknown,H3K27ac,encode,single,False,0.8244473338127136
+166,CL:0000775 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000775,neutrophil,primary_cell,unknown,H3K27me3,encode,single,False,0.8658792972564697
+167,CL:0000775 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000775,neutrophil,primary_cell,unknown,H3K36me3,encode,single,False,0.8393487930297852
+168,CL:0000775 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000775,neutrophil,primary_cell,unknown,H3K4me1,encode,single,False,0.837249755859375
+169,CL:0000775 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000775,neutrophil,primary_cell,unknown,H3K4me3,encode,single,False,0.8037970662117004
+170,CL:0000775 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000775,neutrophil,primary_cell,unknown,H3K9me3,encode,single,False,1.2437853813171387
+171,CL:0000792 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",primary_cell,unknown,H3K27ac,encode,single,False,3.7528088092803955
+172,CL:0000792 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",primary_cell,unknown,H3K27me3,encode,single,False,1.3723632097244263
+173,CL:0000792 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",primary_cell,unknown,H3K36me3,encode,single,False,0.9902058839797974
+174,CL:0000792 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",primary_cell,unknown,H3K4me1,encode,single,False,1.428789496421814
+175,CL:0000792 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",primary_cell,unknown,H3K4me3,encode,single,False,2.1308674812316895
+176,CL:0000792 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",primary_cell,unknown,H3K9me3,encode,single,False,0.8295873999595642
+177,CL:0000842 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0000842,mononuclear cell,primary_cell,unknown,H3K27me3,encode,single,False,0.8204377293586731
+178,CL:0000842 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000842,mononuclear cell,primary_cell,unknown,H3K4me1,encode,single,False,0.9629728198051453
+179,CL:0000842 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000842,mononuclear cell,primary_cell,unknown,H3K4me3,encode,single,False,0.8454005718231201
+180,CL:0000895 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",primary_cell,unknown,H3K27ac,encode,single,False,1.5007438659667969
+181,CL:0000895 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",primary_cell,unknown,H3K36me3,encode,single,False,0.7769186496734619
+182,CL:0000895 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",primary_cell,unknown,H3K4me1,encode,single,False,0.7501938343048096
+183,CL:0000895 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",primary_cell,unknown,H3K4me3,encode,single,False,0.7959851026535034
+184,CL:0000897 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000897,"CD4-positive, alpha-beta memory T cell",primary_cell,unknown,H3K27ac,encode,single,False,1.265649437904358
+185,CL:0000897 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000897,"CD4-positive, alpha-beta memory T cell",primary_cell,unknown,H3K36me3,encode,single,False,0.8145694732666016
+186,CL:0000897 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000897,"CD4-positive, alpha-beta memory T cell",primary_cell,unknown,H3K4me1,encode,single,False,0.8242737054824829
+187,CL:0000897 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000897,"CD4-positive, alpha-beta memory T cell",primary_cell,unknown,H3K4me3,encode,single,False,0.7992186546325684
+188,CL:0000905 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000905,"effector memory CD4-positive, alpha-beta T cell",primary_cell,unknown,H3K27ac,encode,single,False,1.443172574043274
+189,CL:0000905 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000905,"effector memory CD4-positive, alpha-beta T cell",primary_cell,unknown,H3K36me3,encode,single,False,0.9221175909042358
+190,CL:0000905 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000905,"effector memory CD4-positive, alpha-beta T cell",primary_cell,unknown,H3K4me3,encode,single,False,1.0698696374893188
+191,CL:0000909 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0000909,"CD8-positive, alpha-beta memory T cell",primary_cell,unknown,H3K27ac,encode,single,False,1.3422130346298218
+192,CL:0000909 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0000909,"CD8-positive, alpha-beta memory T cell",primary_cell,unknown,H3K36me3,encode,single,False,0.8160771131515503
+193,CL:0000909 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0000909,"CD8-positive, alpha-beta memory T cell",primary_cell,unknown,H3K4me1,encode,single,False,0.8387834429740906
+194,CL:0000909 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0000909,"CD8-positive, alpha-beta memory T cell",primary_cell,unknown,H3K4me3,encode,single,False,0.7764924168586731
+195,CL:0001054 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,unknown,H2AFZ,encode,single,False,1.2726267576217651
+196,CL:0001054 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,adult,H3K27ac,encode,single,False,1.366492509841919
+197,CL:0001054 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,adult,H3K27me3,encode,single,False,1.2522672414779663
+198,CL:0001054 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,adult,H3K36me3,encode,single,False,1.881212830543518
+199,CL:0001054 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,adult,H3K4me1,encode,single,False,1.5222563743591309
+200,CL:0001054 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,unknown,H3K4me2,encode,single,False,2.0045270919799805
+201,CL:0001054 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,adult,H3K4me3,encode,single,False,1.1920089721679688
+202,CL:0001054 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,unknown,H3K79me2,encode,single,False,1.653550148010254
+203,CL:0001054 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,unknown,H3K9ac,encode,single,False,1.2866066694259644
+204,CL:0001054 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,adult,H3K9me3,encode,single,False,1.3481738567352295
+205,CL:0001054 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,CL:0001054,CD14-positive monocyte,primary_cell,unknown,H4K20me1,encode,single,False,1.5084744691848755
+206,CL:0001059 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0001059,"common myeloid progenitor, CD34-positive",primary_cell,adult,H3K27ac,encode,single,False,1.7290501594543457
+207,CL:0001059 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0001059,"common myeloid progenitor, CD34-positive",primary_cell,adult,H3K27me3,encode,single,False,0.9181594252586365
+208,CL:0001059 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0001059,"common myeloid progenitor, CD34-positive",primary_cell,adult,H3K36me3,encode,single,False,0.9064100980758667
+209,CL:0001059 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0001059,"common myeloid progenitor, CD34-positive",primary_cell,adult,H3K4me1,encode,single,False,1.0432772636413574
+210,CL:0001059 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0001059,"common myeloid progenitor, CD34-positive",primary_cell,adult,H3K4me3,encode,single,False,1.0541969537734985
+211,CL:0001059 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0001059,"common myeloid progenitor, CD34-positive",primary_cell,adult,H3K9me3,encode,single,False,1.2970075607299805
+212,CL:0002231 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0002231,epithelial cell of prostate,primary_cell,unknown,H3K27ac,encode,paired,False,0.852828860282898
+213,CL:0002252 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002252,epithelial cell of esophagus,primary_cell,unknown,H3K4me3,encode,single,False,1.167810320854187
+214,CL:0002306 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002306,epithelial cell of proximal tubule,primary_cell,unknown,H3K4me3,encode,single,False,1.7776589393615723
+215,CL:0002319 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0002319,neural cell,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,0.8542282581329346
+216,CL:0002319 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002319,neural cell,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,0.8454180955886841
+217,CL:0002319 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0002319,neural cell,in_vitro_differentiated_cells,embryonic,H3K79me2,encode,single,False,0.8458381295204163
+218,CL:0002319 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0002319,neural cell,in_vitro_differentiated_cells,embryonic,H3K9ac,encode,single,False,0.8596713542938232
+219,CL:0002324 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0002324,myoepithelial cell of mammary gland,primary_cell,adult,H3K27me3,encode,single,False,1.2481344938278198
+220,CL:0002324 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0002324,myoepithelial cell of mammary gland,primary_cell,adult,H3K36me3,encode,single,False,1.3310545682907104
+221,CL:0002324 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0002324,myoepithelial cell of mammary gland,primary_cell,adult,H3K4me1,encode,single,False,1.1346843242645264
+222,CL:0002324 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002324,myoepithelial cell of mammary gland,primary_cell,adult,H3K4me3,encode,single,False,1.9428181648254395
+223,CL:0002324 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0002324,myoepithelial cell of mammary gland,primary_cell,adult,H3K9ac,encode,single,False,1.8589320182800293
+224,CL:0002324 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0002324,myoepithelial cell of mammary gland,primary_cell,adult,H3K9me3,encode,single,False,1.4625475406646729
+225,CL:0002326 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0002326,luminal epithelial cell of mammary gland,primary_cell,adult,H3K27me3,encode,single,False,2.1947197914123535
+226,CL:0002326 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0002326,luminal epithelial cell of mammary gland,primary_cell,adult,H3K36me3,encode,single,False,1.0798907279968262
+227,CL:0002326 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0002326,luminal epithelial cell of mammary gland,primary_cell,adult,H3K4me1,encode,single,False,2.75551700592041
+228,CL:0002326 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0002326,luminal epithelial cell of mammary gland,primary_cell,adult,H3K9me3,encode,single,False,1.7127506732940674
+229,CL:0002327 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H2AFZ,encode,single,False,1.0680005550384521
+230,CL:0002327 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H3K27ac,encode,single,False,1.4711294174194336
+231,CL:0002327 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H3K27me3,encode,single,False,1.1175118684768677
+232,CL:0002327 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H3K36me3,encode,single,False,0.9088714718818665
+233,CL:0002327 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H3K4me1,encode,single,False,1.1306720972061157
+234,CL:0002327 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H3K4me2,encode,single,False,1.4887701272964478
+235,CL:0002327 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H3K4me3,encode,single,False,0.7996102571487427
+236,CL:0002327 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H3K79me2,encode,single,False,1.5507910251617432
+237,CL:0002327 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H3K9ac,encode,single,False,1.8133935928344727
+238,CL:0002327 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:0002327,mammary epithelial cell,primary_cell,adult,H3K9me3,encode,single,False,1.11653470993042
+239,CL:0002328 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0002328,bronchial epithelial cell,primary_cell,unknown,H3K36me3,encode,single,False,1.2896040678024292
+240,CL:0002328 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002328,bronchial epithelial cell,primary_cell,unknown,H3K4me3,encode,single,False,2.163724184036255
+241,CL:0002372 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0002372,myotube,in_vitro_differentiated_cells,adult,H2AFZ,encode,single,False,1.1194050312042236
+242,CL:0002372 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0002372,myotube,in_vitro_differentiated_cells,adult,H3K27ac,encode,single,False,1.9409259557724
+243,CL:0002372 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0002372,myotube,in_vitro_differentiated_cells,adult,H3K27me3,encode,single,False,0.9280364513397217
+244,CL:0002372 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0002372,myotube,in_vitro_differentiated_cells,adult,H3K36me3,encode,single,False,1.1428780555725098
+245,CL:0002372 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0002372,myotube,in_vitro_differentiated_cells,adult,H3K4me1,encode,single,False,1.2412523031234741
+246,CL:0002372 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0002372,myotube,in_vitro_differentiated_cells,adult,H3K4me2,encode,single,False,1.2531827688217163
+247,CL:0002372 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002372,myotube,in_vitro_differentiated_cells,adult,H3K4me3,encode,single,False,1.263627290725708
+248,CL:0002372 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0002372,myotube,in_vitro_differentiated_cells,adult,H3K79me2,encode,single,False,1.1767727136611938
+249,CL:0002372 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0002372,myotube,in_vitro_differentiated_cells,adult,H3K9ac,encode,single,False,1.109142780303955
+250,CL:0002518 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0002518,kidney epithelial cell,primary_cell,unknown,H3K27me3,encode,single,False,1.0444138050079346
+251,CL:0002518 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002518,kidney epithelial cell,primary_cell,unknown,H3K4me3,encode,single,False,2.2789642810821533
+252,CL:0002547 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002547,fibroblast of the aortic adventitia,primary_cell,unknown,H3K4me3,encode,single,False,2.15855073928833
+253,CL:0002548 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002548,cardiac fibroblast,primary_cell,adult,H3K4me3,encode,single,False,4.85253381729126
+254,CL:0002551 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0002551,fibroblast of dermis,primary_cell,unknown,H3K27ac,encode,single,False,1.0494565963745117
+255,CL:0002551 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0002551,fibroblast of dermis,primary_cell,unknown,H3K36me3,encode,single,False,1.0272518396377563
+256,CL:0002551 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0002551,fibroblast of dermis,primary_cell,unknown,H3K4me1,encode,single,False,1.0379791259765625
+257,CL:0002551 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0002551,fibroblast of dermis,primary_cell,unknown,H3K4me2,encode,single,False,1.0568110942840576
+258,CL:0002551 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002551,fibroblast of dermis,primary_cell,"adult,unknown",H3K4me3,encode,single,False,0.9473881721496582
+259,CL:0002551 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0002551,fibroblast of dermis,primary_cell,unknown,H3K79me2,encode,single,False,0.9836273789405823
+260,CL:0002551 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0002551,fibroblast of dermis,primary_cell,unknown,H3K9ac,encode,single,False,1.1766735315322876
+261,CL:0002553 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0002553,fibroblast of lung,primary_cell,"child,adult",H2AFZ,encode,single,False,0.7723867297172546
+262,CL:0002553 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0002553,fibroblast of lung,primary_cell,"adult,child",H3K27ac,encode,single,False,1.5028578042984009
+263,CL:0002553 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0002553,fibroblast of lung,primary_cell,"child,adult",H3K27me3,encode,single,False,1.440978765487671
+264,CL:0002553 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0002553,fibroblast of lung,primary_cell,"adult,child",H3K36me3,encode,single,False,1.2858548164367676
+265,CL:0002553 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0002553,fibroblast of lung,primary_cell,"adult,child",H3K4me2,encode,single,False,2.077979326248169
+266,CL:0002553 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002553,fibroblast of lung,primary_cell,adult,H3K4me3,encode,single,False,1.4736813306808472
+267,CL:0002553 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0002553,fibroblast of lung,primary_cell,"adult,child",H3K79me2,encode,single,False,1.2818126678466797
+268,CL:0002553 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0002553,fibroblast of lung,primary_cell,"child,adult",H3K9ac,encode,single,False,1.6244899034500122
+269,CL:0002555 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002555,fibroblast of mammary gland,primary_cell,unknown,H3K4me3,encode,single,False,1.3848494291305542
+270,CL:0002557 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002557,fibroblast of pulmonary artery,primary_cell,unknown,H3K4me3,encode,single,False,1.9677774906158447
+271,CL:0002558 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002558,fibroblast of villous mesenchyme,primary_cell,unknown,H3K4me3,encode,single,False,1.4901968240737915
+272,CL:0002586 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002586,retinal pigment epithelial cell,primary_cell,unknown,H3K4me3,encode,single,False,1.5056036710739136
+273,CL:0002603 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002603,astrocyte of the cerebellum,primary_cell,unknown,H3K4me3,encode,single,False,2.751863956451416
+274,CL:0002606 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002606,astrocyte of the spinal cord,primary_cell,unknown,H3K4me3,encode,single,False,1.5362993478775024
+275,CL:0002618 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0002618,endothelial cell of umbilical vein,primary_cell,newborn,H2AFZ,encode,single,False,0.8388957977294922
+276,CL:0002618 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0002618,endothelial cell of umbilical vein,primary_cell,newborn,H3K27ac,encode,single,False,1.413582444190979
+277,CL:0002618 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0002618,endothelial cell of umbilical vein,primary_cell,newborn,H3K27me3,encode,single,False,0.9519431591033936
+278,CL:0002618 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:0002618,endothelial cell of umbilical vein,primary_cell,newborn,H3K36me3,encode,single,False,1.1424281597137451
+279,CL:0002618 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0002618,endothelial cell of umbilical vein,primary_cell,newborn,H3K4me1,encode,single,False,1.3022959232330322
+280,CL:0002618 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0002618,endothelial cell of umbilical vein,primary_cell,newborn,H3K4me2,encode,single,False,1.3143960237503052
+281,CL:0002618 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0002618,endothelial cell of umbilical vein,primary_cell,newborn,H3K4me3,encode,single,False,0.6240338087081909
+282,CL:0002618 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0002618,endothelial cell of umbilical vein,primary_cell,newborn,H3K79me2,encode,single,False,1.296781063079834
+283,CL:0002618 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:0002618,endothelial cell of umbilical vein,primary_cell,newborn,H3K9ac,encode,single,False,1.4204692840576172
+284,CL:0011020 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,CL:0011020,neural progenitor cell,in_vitro_differentiated_cells,embryonic,H2AFZ,encode,single,False,0.8875049948692322
+285,CL:0011020 Histone ChIP-seq H3F3A,.,Histone ChIP-seq,CL:0011020,neural progenitor cell,in_vitro_differentiated_cells,embryonic,H3F3A,encode,single,False,0.8334057927131653
+286,CL:0011020 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:0011020,neural progenitor cell,in_vitro_differentiated_cells,embryonic,H3K27ac,encode,single,False,0.8626130223274231
+287,CL:0011020 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:0011020,neural progenitor cell,in_vitro_differentiated_cells,embryonic,H3K27me3,encode,single,False,0.8359968066215515
+288,CL:0011020 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:0011020,neural progenitor cell,in_vitro_differentiated_cells,embryonic,H3K4me1,encode,single,False,0.819572389125824
+289,CL:0011020 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,CL:0011020,neural progenitor cell,in_vitro_differentiated_cells,embryonic,H3K4me2,encode,single,False,0.8100183606147766
+290,CL:0011020 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:0011020,neural progenitor cell,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,0.7950120568275452
+291,CL:0011020 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,CL:0011020,neural progenitor cell,in_vitro_differentiated_cells,embryonic,H3K79me2,encode,single,False,0.8412899374961853
+292,CL:0011020 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,CL:0011020,neural progenitor cell,in_vitro_differentiated_cells,embryonic,H4K20me1,encode,single,False,0.8494463562965393
+293,CL:1001606 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:1001606,foreskin keratinocyte,primary_cell,newborn,H3K27ac,encode,paired,False,0.7617563605308533
+294,CL:1001606 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:1001606,foreskin keratinocyte,primary_cell,newborn,H3K27me3,encode,paired,False,0.8125223517417908
+295,CL:1001606 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:1001606,foreskin keratinocyte,primary_cell,newborn,H3K36me3,encode,paired,False,0.9963340163230896
+296,CL:1001606 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:1001606,foreskin keratinocyte,primary_cell,newborn,H3K4me1,encode,paired,False,0.7609577775001526
+297,CL:1001606 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:1001606,foreskin keratinocyte,primary_cell,newborn,H3K4me3,encode,paired,False,1.7137986421585083
+298,CL:1001606 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:1001606,foreskin keratinocyte,primary_cell,newborn,H3K9ac,encode,single,False,1.2208507061004639
+299,CL:1001606 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:1001606,foreskin keratinocyte,primary_cell,newborn,H3K9me3,encode,paired,False,0.9907357096672058
+300,CL:1001608 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:1001608,foreskin fibroblast,primary_cell,newborn,H3K27ac,encode,single,False,0.8477483987808228
+301,CL:1001608 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:1001608,foreskin fibroblast,primary_cell,newborn,H3K27me3,encode,single,False,0.8903656005859375
+302,CL:1001608 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:1001608,foreskin fibroblast,primary_cell,newborn,H3K36me3,encode,single,False,0.8516900539398193
+303,CL:1001608 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:1001608,foreskin fibroblast,primary_cell,newborn,H3K4me1,encode,single,False,0.8369209170341492
+304,CL:1001608 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:1001608,foreskin fibroblast,primary_cell,newborn,H3K4me3,encode,paired,False,1.0306044816970825
+305,CL:1001608 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:1001608,foreskin fibroblast,primary_cell,newborn,H3K9me3,encode,single,False,0.8815646171569824
+306,CL:2000001 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:2000001,peripheral blood mononuclear cell,primary_cell,adult,H3K27ac,encode,single,False,0.8418717384338379
+307,CL:2000001 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:2000001,peripheral blood mononuclear cell,primary_cell,adult,H3K27me3,encode,single,False,1.1466968059539795
+308,CL:2000001 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:2000001,peripheral blood mononuclear cell,primary_cell,adult,H3K36me3,encode,single,False,1.0044301748275757
+309,CL:2000001 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:2000001,peripheral blood mononuclear cell,primary_cell,adult,H3K4me1,encode,single,False,0.8782188892364502
+310,CL:2000001 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:2000001,peripheral blood mononuclear cell,primary_cell,adult,H3K4me3,encode,single,False,0.8846347332000732
+311,CL:2000001 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:2000001,peripheral blood mononuclear cell,primary_cell,adult,H3K9ac,encode,single,False,0.9377597570419312
+312,CL:2000001 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:2000001,peripheral blood mononuclear cell,primary_cell,adult,H3K9me3,encode,single,False,1.2266879081726074
+313,CL:2000044 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:2000044,brain microvascular endothelial cell,primary_cell,unknown,H3K27ac,encode,paired,False,0.6727954149246216
+314,CL:2000044 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:2000044,brain microvascular endothelial cell,primary_cell,unknown,H3K36me3,encode,paired,False,0.76507169008255
+315,CL:2000044 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:2000044,brain microvascular endothelial cell,primary_cell,unknown,H3K4me3,encode,single,False,2.3882954120635986
+316,CL:2000045 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,CL:2000045,foreskin melanocyte,primary_cell,newborn,H3K27ac,encode,paired,False,0.9535868763923645
+317,CL:2000045 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,CL:2000045,foreskin melanocyte,primary_cell,newborn,H3K27me3,encode,paired,False,1.1221071481704712
+318,CL:2000045 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,CL:2000045,foreskin melanocyte,primary_cell,newborn,H3K36me3,encode,paired,False,1.2483108043670654
+319,CL:2000045 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,CL:2000045,foreskin melanocyte,primary_cell,newborn,H3K4me1,encode,paired,False,1.0487231016159058
+320,CL:2000045 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CL:2000045,foreskin melanocyte,primary_cell,newborn,H3K4me3,encode,paired,False,1.4662927389144897
+321,CL:2000045 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,CL:2000045,foreskin melanocyte,primary_cell,newborn,H3K9ac,encode,single,False,1.2747563123703003
+322,CL:2000045 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,CL:2000045,foreskin melanocyte,primary_cell,newborn,H3K9me3,encode,paired,False,1.3538326025009155
+323,CLO:0007045 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CLO:0007045,"Jurkat, Clone E6-1",cell_line,child,H3K4me3,encode,single,False,1.377289891242981
+324,CLO:0021511 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CLO:0021511,AG10803,cell_line,adult,H3K4me3,encode,single,False,1.5706654787063599
+325,CLO:0021752 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CLO:0021752,AG09309,cell_line,adult,H3K4me3,encode,single,False,1.7879945039749146
+326,CLO:0021754 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CLO:0021754,AG09319,cell_line,adult,H3K4me3,encode,single,False,2.75639009475708
+327,CLO:0034837 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,CLO:0034837,AG04449,cell_line,embryonic,H3K4me3,encode,single,False,1.7758548259735107
+328,EFO:0001086 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0001086,A549,cell_line,adult,H3K27ac,encode,single,False,0.6329953074455261
+329,EFO:0001086 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0001086,A549,cell_line,adult,H3K4me1,encode,single,False,0.6885738372802734
+330,EFO:0001086 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0001086,A549,cell_line,adult,H3K4me2,encode,single,False,0.671027660369873
+331,EFO:0001086 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0001086,A549,cell_line,adult,H3K4me3,encode,single,False,0.6755056977272034
+332,EFO:0001099 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0001099,Caco-2,cell_line,adult,H3K4me1,encode,paired,False,0.7609172463417053
+333,EFO:0001099 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0001099,Caco-2,cell_line,adult,H3K4me3,encode,single,False,1.95445716381073
+334,EFO:0001162 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0001162,GM12875,cell_line,unknown,H3K4me3,encode,single,False,1.8323731422424316
+335,EFO:0001182 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0001182,HEK293,cell_line,embryonic,H3K36me3,encode,single,False,0.7809950709342957
+336,EFO:0001182 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0001182,HEK293,cell_line,embryonic,H3K4me1,encode,single,False,0.87506103515625
+337,EFO:0001182 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0001182,HEK293,cell_line,embryonic,H3K4me3,encode,single,False,1.4261152744293213
+338,EFO:0001187 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H3K27ac,encode,single,False,0.8398945927619934
+339,EFO:0001187 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H3K27me3,encode,single,False,0.823556661605835
+340,EFO:0001187 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H3K36me3,encode,single,False,0.7415798306465149
+341,EFO:0001187 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H3K4me1,encode,single,False,0.9581140875816345
+342,EFO:0001187 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H3K4me2,encode,single,False,1.6532938480377197
+343,EFO:0001187 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H3K4me3,encode,single,False,0.7466471791267395
+344,EFO:0001187 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H3K79me2,encode,single,False,1.4591761827468872
+345,EFO:0001187 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H3K9ac,encode,single,False,1.4094842672348022
+346,EFO:0001187 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H3K9me3,encode,single,False,0.846428632736206
+347,EFO:0001187 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0001187,HepG2,cell_line,child,H4K20me1,encode,single,False,1.1623249053955078
+348,EFO:0001196 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H2AFZ,encode,single,False,1.2369091510772705
+349,EFO:0001196 Histone ChIP-seq H2AK5ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H2AK5ac,encode,single,False,1.5246500968933105
+350,EFO:0001196 Histone ChIP-seq H2BK120ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H2BK120ac,encode,single,False,1.3716460466384888
+351,EFO:0001196 Histone ChIP-seq H2BK12ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H2BK12ac,encode,single,False,1.4479514360427856
+352,EFO:0001196 Histone ChIP-seq H2BK15ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H2BK15ac,encode,single,False,0.966442346572876
+353,EFO:0001196 Histone ChIP-seq H2BK20ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H2BK20ac,encode,single,False,1.2972639799118042
+354,EFO:0001196 Histone ChIP-seq H2BK5ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H2BK5ac,encode,single,False,0.9934648871421814
+355,EFO:0001196 Histone ChIP-seq H3K14ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K14ac,encode,single,False,1.083517074584961
+356,EFO:0001196 Histone ChIP-seq H3K18ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K18ac,encode,single,False,1.057948112487793
+357,EFO:0001196 Histone ChIP-seq H3K23ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K23ac,encode,single,False,1.0878431797027588
+358,EFO:0001196 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K27ac,encode,single,False,1.0501070022583008
+359,EFO:0001196 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K27me3,encode,single,False,1.1166572570800781
+360,EFO:0001196 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K36me3,encode,single,False,1.3623366355895996
+361,EFO:0001196 Histone ChIP-seq H3K4ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K4ac,encode,single,False,1.3149033784866333
+362,EFO:0001196 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K4me1,encode,single,False,0.9336976408958435
+363,EFO:0001196 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K4me2,encode,single,False,1.0273102521896362
+364,EFO:0001196 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K4me3,encode,single,False,1.479701280593872
+365,EFO:0001196 Histone ChIP-seq H3K79me1,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K79me1,encode,single,False,0.7547033429145813
+366,EFO:0001196 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K79me2,encode,single,False,1.1842864751815796
+367,EFO:0001196 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K9ac,encode,single,False,1.211501955986023
+368,EFO:0001196 Histone ChIP-seq H3K9me1,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K9me1,encode,single,False,0.9264301061630249
+369,EFO:0001196 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H3K9me3,encode,single,False,1.1585264205932617
+370,EFO:0001196 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H4K20me1,encode,single,False,0.9348976612091064
+371,EFO:0001196 Histone ChIP-seq H4K5ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H4K5ac,encode,single,False,0.9765207767486572
+372,EFO:0001196 Histone ChIP-seq H4K8ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H4K8ac,encode,single,False,0.7747776508331299
+373,EFO:0001196 Histone ChIP-seq H4K91ac,.,Histone ChIP-seq,EFO:0001196,IMR-90,cell_line,embryonic,H4K91ac,encode,single,False,1.7031760215759277
+374,EFO:0001203 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0001203,MCF-7,cell_line,adult,H2AFZ,encode,single,False,0.7777266502380371
+375,EFO:0001203 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0001203,MCF-7,cell_line,adult,H3K27ac,encode,single,False,0.6805304884910583
+376,EFO:0001203 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0001203,MCF-7,cell_line,adult,H3K36me3,encode,single,False,0.7012349367141724
+377,EFO:0001203 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0001203,MCF-7,cell_line,adult,H3K4me1,encode,single,False,0.7435044646263123
+378,EFO:0001203 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0001203,MCF-7,cell_line,adult,H3K4me2,encode,single,False,0.757789134979248
+379,EFO:0001203 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0001203,MCF-7,cell_line,adult,H3K4me3,encode,single,False,0.7882369756698608
+380,EFO:0001203 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0001203,MCF-7,cell_line,adult,H3K79me2,encode,single,False,0.8263932466506958
+381,EFO:0001203 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0001203,MCF-7,cell_line,adult,H3K9ac,encode,single,False,0.8699772357940674
+382,EFO:0001221 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0001221,NCI-H929,cell_line,adult,H2AFZ,encode,paired,False,0.8324805498123169
+383,EFO:0001221 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0001221,NCI-H929,cell_line,adult,H3K27ac,encode,paired,False,0.6850462555885315
+384,EFO:0001221 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0001221,NCI-H929,cell_line,adult,H3K36me3,encode,paired,False,0.8240364789962769
+385,EFO:0001221 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0001221,NCI-H929,cell_line,adult,H3K4me1,encode,paired,False,0.848157525062561
+386,EFO:0001221 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0001221,NCI-H929,cell_line,adult,H3K4me2,encode,paired,False,0.8175636529922485
+387,EFO:0001221 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0001221,NCI-H929,cell_line,adult,H3K4me3,encode,single,False,0.8140625357627869
+388,EFO:0001221 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0001221,NCI-H929,cell_line,adult,H3K79me2,encode,single,False,0.7729151844978333
+389,EFO:0001221 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0001221,NCI-H929,cell_line,adult,H3K9ac,encode,single,False,0.8214753866195679
+390,EFO:0001260 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0001260,WI38,cell_line,unknown,H3K4me3,encode,single,False,2.0542047023773193
+391,EFO:0002067 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H2AFZ,encode,single,False,1.1387044191360474
+392,EFO:0002067 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H3K27ac,encode,single,False,0.7258226275444031
+393,EFO:0002067 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H3K27me3,encode,single,False,0.7676494121551514
+394,EFO:0002067 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H3K36me3,encode,single,False,0.7321892380714417
+395,EFO:0002067 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H3K4me1,encode,single,False,0.7091634273529053
+396,EFO:0002067 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H3K4me2,encode,single,False,1.953864336013794
+397,EFO:0002067 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H3K4me3,encode,single,False,0.6676239967346191
+398,EFO:0002067 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H3K79me2,encode,single,False,1.0385363101959229
+399,EFO:0002067 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H3K9ac,encode,single,False,1.1911028623580933
+400,EFO:0002067 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0002067,K562,cell_line,adult,H4K20me1,encode,single,False,1.103072166442871
+401,EFO:0002074 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0002074,PC-3,cell_line,adult,H2AFZ,encode,single,False,0.7435217499732971
+402,EFO:0002074 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002074,PC-3,cell_line,adult,H3K27ac,encode,single,False,0.7057936787605286
+403,EFO:0002074 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0002074,PC-3,cell_line,adult,H3K27me3,encode,single,False,0.7873684167861938
+404,EFO:0002074 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002074,PC-3,cell_line,adult,H3K36me3,encode,single,False,0.762434720993042
+405,EFO:0002074 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002074,PC-3,cell_line,adult,H3K4me1,encode,single,False,0.7295119166374207
+406,EFO:0002074 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0002074,PC-3,cell_line,adult,H3K4me2,encode,single,False,0.7400060296058655
+407,EFO:0002074 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002074,PC-3,cell_line,adult,H3K4me3,encode,single,False,0.7329297661781311
+408,EFO:0002074 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0002074,PC-3,cell_line,adult,H3K79me2,encode,single,False,0.7248369455337524
+409,EFO:0002074 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0002074,PC-3,cell_line,adult,H3K9ac,encode,single,False,0.7181410193443298
+410,EFO:0002095 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002095,22Rv1,cell_line,unknown,H3K27ac,encode,paired,False,0.8225396871566772
+411,EFO:0002106 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002106,A673,cell_line,child,H3K27ac,encode,single,False,0.9337882399559021
+412,EFO:0002106 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002106,A673,cell_line,child,H3K4me1,encode,single,False,1.2146235704421997
+413,EFO:0002106 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002106,A673,cell_line,child,H3K4me3,encode,single,False,1.032426357269287
+414,EFO:0002167 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0002167,DOHH2,cell_line,adult,H2AFZ,encode,single,False,0.8480846881866455
+415,EFO:0002167 Histone ChIP-seq H3F3A,.,Histone ChIP-seq,EFO:0002167,DOHH2,cell_line,adult,H3F3A,encode,single,False,0.7860332131385803
+416,EFO:0002167 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002167,DOHH2,cell_line,adult,H3K27ac,encode,single,False,0.9404491782188416
+417,EFO:0002167 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0002167,DOHH2,cell_line,adult,H3K27me3,encode,single,False,0.7938494086265564
+418,EFO:0002167 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002167,DOHH2,cell_line,adult,H3K36me3,encode,single,False,0.7523781061172485
+419,EFO:0002167 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002167,DOHH2,cell_line,adult,H3K4me1,encode,single,False,0.722085177898407
+420,EFO:0002167 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0002167,DOHH2,cell_line,adult,H3K4me2,encode,single,False,0.873505711555481
+421,EFO:0002167 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002167,DOHH2,cell_line,adult,H3K4me3,encode,single,False,0.7785306572914124
+422,EFO:0002167 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0002167,DOHH2,cell_line,adult,H3K79me2,encode,single,False,0.7459806799888611
+423,EFO:0002234 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002234,MG63,cell_line,child,H3K36me3,encode,paired,False,0.7326278686523438
+424,EFO:0002234 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002234,MG63,cell_line,child,H3K4me3,encode,paired,False,0.7054553627967834
+425,EFO:0002323 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002323,RWPE1,cell_line,adult,H3K27ac,encode,paired,False,1.316434383392334
+426,EFO:0002330 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002330,SJSA1,cell_line,adult,H3K27ac,encode,paired,False,0.7031357884407043
+427,EFO:0002330 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002330,SJSA1,cell_line,adult,H3K36me3,encode,paired,False,0.7640801072120667
+428,EFO:0002330 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002330,SJSA1,cell_line,adult,H3K4me1,encode,paired,False,0.7201310396194458
+429,EFO:0002330 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002330,SJSA1,cell_line,adult,H3K4me3,encode,paired,False,0.636623203754425
+430,EFO:0002357 Histone ChIP-seq H3F3A,.,Histone ChIP-seq,EFO:0002357,SU-DHL-6,cell_line,adult,H3F3A,encode,single,False,0.8423266410827637
+431,EFO:0002357 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002357,SU-DHL-6,cell_line,adult,H3K27ac,encode,single,False,0.8034595251083374
+432,EFO:0002357 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002357,SU-DHL-6,cell_line,adult,H3K36me3,encode,single,False,0.7802841663360596
+433,EFO:0002357 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0002357,SU-DHL-6,cell_line,adult,H3K4me2,encode,single,False,0.79960036277771
+434,EFO:0002357 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0002357,SU-DHL-6,cell_line,adult,H3K79me2,encode,single,False,0.8656731843948364
+435,EFO:0002357 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0002357,SU-DHL-6,cell_line,adult,H3K9ac,encode,single,False,0.7668773531913757
+436,EFO:0002713 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002713,Panc1,cell_line,adult,H3K27ac,encode,single,False,0.8690906763076782
+437,EFO:0002713 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002713,Panc1,cell_line,adult,H3K36me3,encode,single,False,0.9535069465637207
+438,EFO:0002713 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002713,Panc1,cell_line,adult,H3K4me1,encode,single,False,0.9128447771072388
+439,EFO:0002713 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002713,Panc1,cell_line,adult,H3K4me3,encode,single,False,1.0108050107955933
+440,EFO:0002779 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0002779,BJ,cell_line,newborn,H3K27me3,encode,single,False,1.2857643365859985
+441,EFO:0002779 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002779,BJ,cell_line,newborn,H3K36me3,encode,single,False,1.2777327299118042
+442,EFO:0002779 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002779,BJ,cell_line,newborn,H3K4me3,encode,single,False,2.0215272903442383
+443,EFO:0002783 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002783,GM06990,cell_line,unknown,H3K36me3,encode,single,False,1.289337396621704
+444,EFO:0002783 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002783,GM06990,cell_line,unknown,H3K4me3,encode,single,False,2.12255859375
+445,EFO:0002784 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0002784,GM12878,cell_line,adult,H2AFZ,encode,single,False,1.0433303117752075
+446,EFO:0002784 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002784,GM12878,cell_line,adult,H3K27ac,encode,single,False,2.0473732948303223
+447,EFO:0002784 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002784,GM12878,cell_line,adult,H3K36me3,encode,single,False,0.9647253751754761
+448,EFO:0002784 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002784,GM12878,cell_line,adult,H3K4me1,encode,single,False,0.8747251033782959
+449,EFO:0002784 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0002784,GM12878,cell_line,adult,H3K4me2,encode,single,False,2.022794008255005
+450,EFO:0002784 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002784,GM12878,cell_line,adult,H3K4me3,encode,single,False,0.7356247305870056
+451,EFO:0002784 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0002784,GM12878,cell_line,adult,H3K79me2,encode,single,False,1.9463640451431274
+452,EFO:0002784 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0002784,GM12878,cell_line,adult,H3K9ac,encode,single,False,1.3702908754348755
+453,EFO:0002791 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0002791,HeLa-S3,cell_line,adult,H2AFZ,encode,single,False,0.8552187085151672
+454,EFO:0002791 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002791,HeLa-S3,cell_line,adult,H3K27ac,encode,single,False,1.2037321329116821
+455,EFO:0002791 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0002791,HeLa-S3,cell_line,adult,H3K27me3,encode,single,False,0.8821183443069458
+456,EFO:0002791 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002791,HeLa-S3,cell_line,adult,H3K36me3,encode,single,False,0.8423819541931152
+457,EFO:0002791 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002791,HeLa-S3,cell_line,adult,H3K4me1,encode,single,False,0.9480814933776855
+458,EFO:0002791 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0002791,HeLa-S3,cell_line,adult,H3K4me2,encode,single,False,0.9384459853172302
+459,EFO:0002791 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002791,HeLa-S3,cell_line,adult,H3K4me3,encode,single,False,0.7833877205848694
+460,EFO:0002791 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0002791,HeLa-S3,cell_line,adult,H3K79me2,encode,single,False,1.5820488929748535
+461,EFO:0002791 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0002791,HeLa-S3,cell_line,adult,H3K9ac,encode,single,False,1.1061956882476807
+462,EFO:0002793 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002793,HL-60,cell_line,adult,H3K27ac,encode,paired,False,0.7122716307640076
+463,EFO:0002793 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002793,HL-60,cell_line,adult,H3K4me3,encode,single,False,3.4567317962646484
+464,EFO:0002798 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002798,NB4,cell_line,adult,H3K4me3,encode,single,False,2.6263296604156494
+465,EFO:0002824 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002824,HCT116,cell_line,adult,H3K27ac,encode,single,False,0.8749218583106995
+466,EFO:0002824 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0002824,HCT116,cell_line,adult,H3K27me3,encode,single,False,0.8850667476654053
+467,EFO:0002824 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002824,HCT116,cell_line,adult,H3K36me3,encode,single,False,0.7596229314804077
+468,EFO:0002824 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002824,HCT116,cell_line,adult,H3K4me1,encode,single,False,0.7152540683746338
+469,EFO:0002824 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0002824,HCT116,cell_line,adult,H3K4me2,encode,single,False,0.833650529384613
+470,EFO:0002824 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002824,HCT116,cell_line,adult,H3K4me3,encode,single,False,0.7914097905158997
+471,EFO:0002824 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0002824,HCT116,cell_line,adult,H3K79me2,encode,single,False,0.935132622718811
+472,EFO:0002824 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0002824,HCT116,cell_line,adult,H3K9ac,encode,single,False,0.8349432349205017
+473,EFO:0002847 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H2AFZ,encode,paired,False,0.8126703500747681
+474,EFO:0002847 Histone ChIP-seq H3F3A,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3F3A,encode,paired,False,0.805666983127594
+475,EFO:0002847 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3K27ac,encode,single,False,0.7811882495880127
+476,EFO:0002847 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3K27me3,encode,single,False,0.8377817273139954
+477,EFO:0002847 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3K4me1,encode,single,False,0.7623736262321472
+478,EFO:0002847 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3K4me2,encode,single,False,0.7997951507568359
+479,EFO:0002847 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3K4me3,encode,single,False,0.7847661972045898
+480,EFO:0002847 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3K79me2,encode,single,False,0.7880992889404297
+481,EFO:0002847 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3K9ac,encode,single,False,0.7769328355789185
+482,EFO:0002847 Histone ChIP-seq H3K9me2,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3K9me2,encode,paired,False,0.8189198970794678
+483,EFO:0002847 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H3K9me3,encode,paired,False,0.8302831053733826
+484,EFO:0002847 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0002847,PC-9,cell_line,unknown,H4K20me1,encode,paired,False,0.8273460865020752
+485,EFO:0002860 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0002860,SK-N-MC,cell_line,child,H3K27ac,encode,single,False,0.8160144686698914
+486,EFO:0002860 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0002860,SK-N-MC,cell_line,child,H3K36me3,encode,single,False,0.7942330241203308
+487,EFO:0002860 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0002860,SK-N-MC,cell_line,child,H3K4me1,encode,single,False,0.7683026790618896
+488,EFO:0002860 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0002860,SK-N-MC,cell_line,child,H3K4me3,encode,single,False,0.766095757484436
+489,EFO:0002860 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0002860,SK-N-MC,cell_line,child,H3K9ac,encode,single,False,0.798915445804596
+490,EFO:0003042 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H2AFZ,encode,single,False,0.8964623212814331
+491,EFO:0003042 Histone ChIP-seq H2BK12ac,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H2BK12ac,encode,single,False,1.0385457277297974
+492,EFO:0003042 Histone ChIP-seq H2BK5ac,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H2BK5ac,encode,single,False,0.9948505759239197
+493,EFO:0003042 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H3K27ac,encode,single,False,1.1245684623718262
+494,EFO:0003042 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H3K27me3,encode,single,False,0.9110193252563477
+495,EFO:0003042 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H3K36me3,encode,single,False,0.7956418395042419
+496,EFO:0003042 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H3K4me1,encode,single,False,0.8609104752540588
+497,EFO:0003042 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H3K4me2,encode,single,False,1.423579454421997
+498,EFO:0003042 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H3K4me3,encode,single,False,0.8046759366989136
+499,EFO:0003042 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H3K79me2,encode,single,False,1.0178576707839966
+500,EFO:0003042 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H3K9ac,encode,single,False,0.9233517050743103
+501,EFO:0003042 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H3K9me3,encode,single,False,0.8602845668792725
+502,EFO:0003042 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H4K20me1,encode,single,False,0.8364707231521606
+503,EFO:0003042 Histone ChIP-seq H4K91ac,.,Histone ChIP-seq,EFO:0003042,H1,cell_line,embryonic,H4K91ac,encode,single,False,0.8832273483276367
+504,EFO:0003045 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0003045,H9,cell_line,embryonic,H3K27me3,encode,single,False,1.042486548423767
+505,EFO:0003045 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0003045,H9,cell_line,embryonic,H3K36me3,encode,single,False,1.2858878374099731
+506,EFO:0003045 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0003045,H9,cell_line,embryonic,H3K4me1,encode,single,False,1.0824403762817383
+507,EFO:0003045 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0003045,H9,cell_line,embryonic,H3K4me2,encode,single,False,0.8737141489982605
+508,EFO:0003045 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0003045,H9,cell_line,embryonic,H3K4me3,encode,single,False,2.0365102291107178
+509,EFO:0003045 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0003045,H9,cell_line,embryonic,H3K9me3,encode,single,False,1.0603501796722412
+510,EFO:0003072 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H2AFZ,encode,paired,False,0.8825019598007202
+511,EFO:0003072 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H3K27ac,encode,paired,False,0.879656970500946
+512,EFO:0003072 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H3K27me3,encode,single,False,0.8798337578773499
+513,EFO:0003072 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H3K36me3,encode,single,False,0.9075960516929626
+514,EFO:0003072 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H3K4me1,encode,single,False,0.7671272158622742
+515,EFO:0003072 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H3K4me2,encode,single,False,0.7950025200843811
+516,EFO:0003072 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H3K4me3,encode,paired,False,0.876600980758667
+517,EFO:0003072 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H3K79me2,encode,paired,False,0.9137915968894958
+518,EFO:0003072 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H3K9ac,encode,single,False,0.7993491888046265
+519,EFO:0003072 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0003072,SK-N-SH,cell_line,child,H4K20me1,encode,single,False,0.8161243200302124
+520,EFO:0005236 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0005236,NT2/D1,cell_line,unknown,H3K27me3,encode,single,False,1.0673760175704956
+521,EFO:0005236 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0005236,NT2/D1,cell_line,unknown,H3K36me3,encode,single,False,1.3818084001541138
+522,EFO:0005236 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0005236,NT2/D1,cell_line,unknown,H3K4me1,encode,single,False,1.1486653089523315
+523,EFO:0005236 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005236,NT2/D1,cell_line,unknown,H3K4me3,encode,single,False,1.227253794670105
+524,EFO:0005236 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0005236,NT2/D1,cell_line,unknown,H3K9ac,encode,single,False,1.299910306930542
+525,EFO:0005236 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0005236,NT2/D1,cell_line,unknown,H3K9me3,encode,single,False,0.8423168063163757
+526,EFO:0005333 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005333,GM08714,cell_line,unknown,H3K4me3,encode,single,False,0.6614753007888794
+527,EFO:0005337 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005337,GM12864,cell_line,unknown,H3K4me3,encode,single,False,1.0027735233306885
+528,EFO:0005338 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005338,GM12865,cell_line,unknown,H3K4me3,encode,single,False,0.9344316124916077
+529,EFO:0005694 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0005694,KMS-11,cell_line,adult,H2AFZ,encode,single,False,0.8141403794288635
+530,EFO:0005694 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0005694,KMS-11,cell_line,adult,H3K27ac,encode,single,False,0.746717631816864
+531,EFO:0005694 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0005694,KMS-11,cell_line,adult,H3K4me1,encode,single,False,0.7639715671539307
+532,EFO:0005694 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0005694,KMS-11,cell_line,adult,H3K4me2,encode,single,False,0.8069808483123779
+533,EFO:0005694 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0005694,KMS-11,cell_line,adult,H3K79me2,encode,single,False,0.7864497303962708
+534,EFO:0005694 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0005694,KMS-11,cell_line,adult,H3K9ac,encode,single,False,0.8067595362663269
+535,EFO:0005710 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005710,HFF-Myc,cell_line,newborn,H3K4me3,encode,single,False,2.5824942588806152
+536,EFO:0005715 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0005715,WERI-Rb-1,cell_line,child,H3K27ac,encode,paired,False,0.7390504479408264
+537,EFO:0005715 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0005715,WERI-Rb-1,cell_line,child,H3K36me3,encode,paired,False,0.7824030518531799
+538,EFO:0005715 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0005715,WERI-Rb-1,cell_line,child,H3K4me1,encode,paired,False,0.7635297179222107
+539,EFO:0005715 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005715,WERI-Rb-1,cell_line,child,H3K4me3,encode,single,False,1.21775484085083
+540,EFO:0005719 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0005719,Karpas-422,cell_line,adult,H2AFZ,encode,single,False,0.8108116984367371
+541,EFO:0005719 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0005719,Karpas-422,cell_line,adult,H3K27ac,encode,single,False,0.8132166266441345
+542,EFO:0005719 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0005719,Karpas-422,cell_line,adult,H3K36me3,encode,single,False,0.7852209210395813
+543,EFO:0005719 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0005719,Karpas-422,cell_line,adult,H3K4me1,encode,single,False,0.6884607672691345
+544,EFO:0005719 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0005719,Karpas-422,cell_line,adult,H3K4me2,encode,single,False,0.8892467617988586
+545,EFO:0005719 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005719,Karpas-422,cell_line,adult,H3K4me3,encode,single,False,0.7700881958007812
+546,EFO:0005719 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0005719,Karpas-422,cell_line,adult,H3K79me2,encode,single,False,0.7337878942489624
+547,EFO:0005719 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0005719,Karpas-422,cell_line,adult,H3K9ac,encode,single,False,0.8060652017593384
+548,EFO:0005719 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0005719,Karpas-422,cell_line,adult,H3K9me3,encode,single,False,0.787443220615387
+549,EFO:0005722 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0005722,SJCRH30,cell_line,child,H3K27ac,encode,paired,False,0.6896005868911743
+550,EFO:0005722 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0005722,SJCRH30,cell_line,child,H3K36me3,encode,paired,False,0.7707294821739197
+551,EFO:0005722 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0005722,SJCRH30,cell_line,child,H3K4me1,encode,paired,False,0.7450762987136841
+552,EFO:0005722 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005722,SJCRH30,cell_line,child,H3K4me3,encode,paired,False,0.6206855177879333
+553,EFO:0005723 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H2AFZ,encode,single,False,0.7952460050582886
+554,EFO:0005723 Histone ChIP-seq H3F3A,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H3F3A,encode,single,False,0.793757975101471
+555,EFO:0005723 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H3K27ac,encode,single,False,0.8255560398101807
+556,EFO:0005723 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H3K27me3,encode,single,False,0.8721643686294556
+557,EFO:0005723 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H3K36me3,encode,single,False,0.8269196152687073
+558,EFO:0005723 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H3K4me1,encode,single,False,0.8184978365898132
+559,EFO:0005723 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H3K4me2,encode,single,False,1.1433426141738892
+560,EFO:0005723 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H3K4me3,encode,single,False,0.7785521745681763
+561,EFO:0005723 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H3K79me2,encode,single,False,0.9011765122413635
+562,EFO:0005723 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0005723,GM23248,cell_line,adult,H3K9ac,encode,single,False,0.7587307095527649
+563,EFO:0005724 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0005724,MM.1S,cell_line,adult,H2AFZ,encode,single,False,0.7800906300544739
+564,EFO:0005724 Histone ChIP-seq H3F3A,.,Histone ChIP-seq,EFO:0005724,MM.1S,cell_line,adult,H3F3A,encode,single,False,0.8031467199325562
+565,EFO:0005724 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0005724,MM.1S,cell_line,adult,H3K27ac,encode,single,False,0.782006561756134
+566,EFO:0005724 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0005724,MM.1S,cell_line,adult,H3K27me3,encode,single,False,0.8092890977859497
+567,EFO:0005724 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0005724,MM.1S,cell_line,adult,H3K4me1,encode,single,False,0.7677534222602844
+568,EFO:0005724 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0005724,MM.1S,cell_line,adult,H3K4me2,encode,single,False,0.7975562214851379
+569,EFO:0005724 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005724,MM.1S,cell_line,adult,H3K4me3,encode,single,False,0.7837072014808655
+570,EFO:0005724 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0005724,MM.1S,cell_line,adult,H3K79me2,encode,single,False,0.7689640522003174
+571,EFO:0005724 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0005724,MM.1S,cell_line,adult,H3K9ac,encode,single,False,0.7776012420654297
+572,EFO:0005725 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0005725,BE2C,cell_line,child,H3K27me3,encode,paired,False,0.7768091559410095
+573,EFO:0005725 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0005725,BE2C,cell_line,child,H3K36me3,encode,paired,False,0.7647978663444519
+574,EFO:0005725 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0005725,BE2C,cell_line,child,H3K4me1,encode,paired,False,0.7459593415260315
+575,EFO:0005725 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005725,BE2C,cell_line,child,H3K4me3,encode,single,False,1.0527292490005493
+576,EFO:0005726 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005726,LNCaP clone FGC,cell_line,adult,H3K4me3,encode,single,False,1.5429073572158813
+577,EFO:0005904 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0005904,H7,cell_line,embryonic,H3K27me3,encode,single,False,1.2266736030578613
+578,EFO:0005904 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0005904,H7,cell_line,embryonic,H3K36me3,encode,single,False,1.207909345626831
+579,EFO:0005904 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005904,H7,cell_line,embryonic,H3K4me3,encode,single,False,2.94527268409729
+580,EFO:0005907 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0005907,OCI-LY1,cell_line,adult,H3K27ac,encode,single,False,1.0297112464904785
+581,EFO:0005907 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0005907,OCI-LY1,cell_line,adult,H3K36me3,encode,single,False,0.8471945524215698
+582,EFO:0005907 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0005907,OCI-LY1,cell_line,adult,H3K4me1,encode,single,False,0.9663975834846497
+583,EFO:0005907 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0005907,OCI-LY1,cell_line,adult,H3K4me2,encode,single,False,0.7491858601570129
+584,EFO:0005907 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0005907,OCI-LY1,cell_line,adult,H3K4me3,encode,single,False,0.9543201923370361
+585,EFO:0005907 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0005907,OCI-LY1,cell_line,adult,H3K79me2,encode,single,False,0.8348632454872131
+586,EFO:0005907 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0005907,OCI-LY1,cell_line,adult,H3K9ac,encode,single,False,0.7003461718559265
+587,EFO:0006270 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0006270,AG04450,cell_line,embryonic,H3K27ac,encode,single,False,1.9686357975006104
+588,EFO:0006270 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0006270,AG04450,cell_line,embryonic,H3K27me3,encode,single,False,1.8396755456924438
+589,EFO:0006270 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0006270,AG04450,cell_line,embryonic,H3K4me3,encode,single,False,1.9831632375717163
+590,EFO:0006270 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0006270,AG04450,cell_line,embryonic,H3K9me3,encode,single,False,1.4357243776321411
+591,EFO:0006283 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0006283,KOPT-K1,cell_line,unknown,H3K27ac,encode,single,False,1.3327282667160034
+592,EFO:0006283 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0006283,KOPT-K1,cell_line,unknown,H3K36me3,encode,single,False,1.4527289867401123
+593,EFO:0006283 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0006283,KOPT-K1,cell_line,unknown,H3K4me1,encode,single,False,1.3107812404632568
+594,EFO:0006365 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0006365,C4-2B,cell_line,adult,H3K27ac,encode,paired,False,0.754474401473999
+595,EFO:0006710 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H2AFZ,encode,single,False,0.8652040362358093
+596,EFO:0006710 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H3K27ac,encode,single,False,0.7575159668922424
+597,EFO:0006710 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H3K27me3,encode,single,False,0.8024139404296875
+598,EFO:0006710 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H3K36me3,encode,single,False,0.7774218320846558
+599,EFO:0006710 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H3K4me1,encode,single,False,0.726151704788208
+600,EFO:0006710 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H3K4me2,encode,single,False,0.8114163279533386
+601,EFO:0006710 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H3K4me3,encode,single,False,0.7242121696472168
+602,EFO:0006710 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H3K79me2,encode,single,False,0.7425189018249512
+603,EFO:0006710 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H3K9ac,encode,single,False,0.8127356767654419
+604,EFO:0006710 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0006710,OCI-LY3,cell_line,adult,H4K20me1,encode,single,False,0.7914016246795654
+605,EFO:0006711 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0006711,OCI-LY7,cell_line,adult,H2AFZ,encode,single,False,0.8166161775588989
+606,EFO:0006711 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0006711,OCI-LY7,cell_line,adult,H3K27ac,encode,single,False,1.0634981393814087
+607,EFO:0006711 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0006711,OCI-LY7,cell_line,adult,H3K36me3,encode,single,False,0.8508294224739075
+608,EFO:0006711 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0006711,OCI-LY7,cell_line,adult,H3K4me1,encode,single,False,1.1747151613235474
+609,EFO:0006711 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0006711,OCI-LY7,cell_line,adult,H3K4me2,encode,single,False,0.8813180923461914
+610,EFO:0006711 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0006711,OCI-LY7,cell_line,adult,H3K4me3,encode,single,False,1.0456187725067139
+611,EFO:0006711 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0006711,OCI-LY7,cell_line,adult,H3K79me2,encode,single,False,0.8088855147361755
+612,EFO:0007070 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0007070,ACC112,cell_line,adult,H2AFZ,encode,single,False,1.1752159595489502
+613,EFO:0007070 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007070,ACC112,cell_line,adult,H3K27ac,encode,single,False,0.9650293588638306
+614,EFO:0007070 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007070,ACC112,cell_line,adult,H3K27me3,encode,single,False,0.8814367055892944
+615,EFO:0007070 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007070,ACC112,cell_line,adult,H3K36me3,encode,single,False,0.7858275175094604
+616,EFO:0007070 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007070,ACC112,cell_line,adult,H3K4me1,encode,single,False,1.075564980506897
+617,EFO:0007070 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007070,ACC112,cell_line,adult,H3K4me3,encode,single,False,0.7788870334625244
+618,EFO:0007070 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0007070,ACC112,cell_line,adult,H3K79me2,encode,single,False,1.3678133487701416
+619,EFO:0007074 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0007074,DND-41,cell_line,child,H2AFZ,encode,single,False,0.9895577430725098
+620,EFO:0007074 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007074,DND-41,cell_line,child,H3K27ac,encode,single,False,0.7825018763542175
+621,EFO:0007074 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007074,DND-41,cell_line,child,H3K36me3,encode,single,False,1.0529050827026367
+622,EFO:0007074 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007074,DND-41,cell_line,child,H3K4me1,encode,single,False,1.0538052320480347
+623,EFO:0007074 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0007074,DND-41,cell_line,child,H3K4me2,encode,single,False,1.6599756479263306
+624,EFO:0007074 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007074,DND-41,cell_line,child,H3K4me3,encode,single,False,0.7011074423789978
+625,EFO:0007074 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0007074,DND-41,cell_line,child,H3K79me2,encode,single,False,1.3025755882263184
+626,EFO:0007074 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0007074,DND-41,cell_line,child,H3K9ac,encode,single,False,0.9783159494400024
+627,EFO:0007074 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0007074,DND-41,cell_line,child,H4K20me1,encode,single,False,0.9341121912002563
+628,EFO:0007076 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007076,ES-I3,cell_line,embryonic,H3K36me3,encode,single,False,1.2987866401672363
+629,EFO:0007076 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007076,ES-I3,cell_line,embryonic,H3K4me1,encode,single,False,0.9938431978225708
+630,EFO:0007076 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0007076,ES-I3,cell_line,embryonic,H3K9ac,encode,single,False,1.3369234800338745
+631,EFO:0007083 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007083,HUES48,cell_line,embryonic,H3K27ac,encode,single,False,1.690273404121399
+632,EFO:0007083 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007083,HUES48,cell_line,embryonic,H3K27me3,encode,single,False,0.9886635541915894
+633,EFO:0007083 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007083,HUES48,cell_line,embryonic,H3K36me3,encode,single,False,0.9601725339889526
+634,EFO:0007083 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007083,HUES48,cell_line,embryonic,H3K4me1,encode,single,False,0.9300087094306946
+635,EFO:0007083 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007083,HUES48,cell_line,embryonic,H3K4me3,encode,single,False,1.015495777130127
+636,EFO:0007083 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0007083,HUES48,cell_line,embryonic,H3K9ac,encode,single,False,0.8901925086975098
+637,EFO:0007083 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0007083,HUES48,cell_line,embryonic,H3K9me3,encode,single,False,1.0969005823135376
+638,EFO:0007086 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007086,HUES6,cell_line,embryonic,H3K27ac,encode,single,False,0.8609235286712646
+639,EFO:0007086 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007086,HUES6,cell_line,embryonic,H3K27me3,encode,single,False,0.9851930141448975
+640,EFO:0007086 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007086,HUES6,cell_line,embryonic,H3K36me3,encode,single,False,1.0129314661026
+641,EFO:0007086 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007086,HUES6,cell_line,embryonic,H3K4me1,encode,single,False,0.9332792162895203
+642,EFO:0007086 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007086,HUES6,cell_line,embryonic,H3K4me3,encode,single,False,1.0370745658874512
+643,EFO:0007086 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0007086,HUES6,cell_line,embryonic,H3K9ac,encode,single,False,1.2630641460418701
+644,EFO:0007086 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0007086,HUES6,cell_line,embryonic,H3K9me3,encode,single,False,1.1540638208389282
+645,EFO:0007089 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007089,HUES64,cell_line,embryonic,H3K27ac,encode,single,False,0.8550357818603516
+646,EFO:0007089 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007089,HUES64,cell_line,embryonic,H3K27me3,encode,single,False,1.0195966958999634
+647,EFO:0007089 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007089,HUES64,cell_line,embryonic,H3K36me3,encode,single,False,1.0098785161972046
+648,EFO:0007089 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007089,HUES64,cell_line,embryonic,H3K4me1,encode,single,False,0.9001332521438599
+649,EFO:0007089 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007089,HUES64,cell_line,embryonic,H3K4me3,encode,single,False,1.1050348281860352
+650,EFO:0007089 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0007089,HUES64,cell_line,embryonic,H3K9ac,encode,single,False,0.8477354645729065
+651,EFO:0007089 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0007089,HUES64,cell_line,embryonic,H3K9me3,encode,single,False,1.1592868566513062
+652,EFO:0007096 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007096,iPS DF 19.11,cell_line,newborn,H3K36me3,encode,single,False,0.9917740225791931
+653,EFO:0007096 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007096,iPS DF 19.11,cell_line,newborn,H3K4me1,encode,single,False,1.209425449371338
+654,EFO:0007096 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007096,iPS DF 19.11,cell_line,newborn,H3K4me3,encode,single,False,1.4535536766052246
+655,EFO:0007096 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0007096,iPS DF 19.11,cell_line,newborn,H3K9me3,encode,single,False,1.1676043272018433
+656,EFO:0007098 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007098,iPS DF 6.9,cell_line,newborn,H3K27me3,encode,single,False,0.8807129859924316
+657,EFO:0007098 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007098,iPS DF 6.9,cell_line,newborn,H3K4me3,encode,single,False,0.8723101019859314
+658,EFO:0007099 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007099,iPS-11a,cell_line,adult,H3K4me3,encode,single,False,1.8062061071395874
+659,EFO:0007102 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007102,iPS-15b,cell_line,adult,H3K27me3,encode,single,False,1.2672089338302612
+660,EFO:0007102 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007102,iPS-15b,cell_line,adult,H3K36me3,encode,single,False,1.6455957889556885
+661,EFO:0007102 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007102,iPS-15b,cell_line,adult,H3K4me1,encode,single,False,1.1997390985488892
+662,EFO:0007102 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007102,iPS-15b,cell_line,adult,H3K4me3,encode,single,False,1.4930837154388428
+663,EFO:0007102 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0007102,iPS-15b,cell_line,adult,H3K9ac,encode,single,False,1.2961440086364746
+664,EFO:0007105 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007105,iPS-18a,cell_line,adult,H3K27me3,encode,single,False,0.9958552122116089
+665,EFO:0007105 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007105,iPS-18a,cell_line,adult,H3K36me3,encode,single,False,0.8784027099609375
+666,EFO:0007105 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007105,iPS-18a,cell_line,adult,H3K4me1,encode,single,False,0.9265301823616028
+667,EFO:0007105 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007105,iPS-18a,cell_line,adult,H3K4me3,encode,single,False,1.1476532220840454
+668,EFO:0007105 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0007105,iPS-18a,cell_line,adult,H3K9ac,encode,single,False,0.9910545945167542
+669,EFO:0007105 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0007105,iPS-18a,cell_line,adult,H3K9me3,encode,single,False,1.1282650232315063
+670,EFO:0007107 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007107,iPS-18c,cell_line,adult,H3K4me3,encode,single,False,1.324804663658142
+671,EFO:0007107 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0007107,iPS-18c,cell_line,adult,H3K9me3,encode,single,False,4.074578285217285
+672,EFO:0007108 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007108,iPS-20b,cell_line,adult,H3K27ac,encode,single,False,0.982379138469696
+673,EFO:0007108 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007108,iPS-20b,cell_line,adult,H3K27me3,encode,single,False,0.9250741600990295
+674,EFO:0007108 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007108,iPS-20b,cell_line,adult,H3K36me3,encode,single,False,0.9049729704856873
+675,EFO:0007108 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007108,iPS-20b,cell_line,adult,H3K4me1,encode,single,False,0.8496806621551514
+676,EFO:0007108 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007108,iPS-20b,cell_line,adult,H3K4me3,encode,single,False,0.8902922868728638
+677,EFO:0007108 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0007108,iPS-20b,cell_line,adult,H3K9ac,encode,single,False,0.8390867114067078
+678,EFO:0007108 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0007108,iPS-20b,cell_line,adult,H3K9me3,encode,single,False,1.1647130250930786
+679,EFO:0007112 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0007112,Loucy,cell_line,adult,H2AFZ,encode,single,False,0.8742896318435669
+680,EFO:0007112 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007112,Loucy,cell_line,adult,H3K36me3,encode,single,False,0.9616490006446838
+681,EFO:0007112 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007112,Loucy,cell_line,adult,H3K4me1,encode,single,False,0.9160391688346863
+682,EFO:0007112 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0007112,Loucy,cell_line,adult,H3K4me2,encode,single,False,0.8706828951835632
+683,EFO:0007112 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007112,Loucy,cell_line,adult,H3K4me3,encode,single,False,0.8072449564933777
+684,EFO:0007112 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0007112,Loucy,cell_line,adult,H3K79me2,encode,single,False,0.9605991840362549
+685,EFO:0007112 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0007112,Loucy,cell_line,adult,H3K9ac,encode,single,False,0.8224473595619202
+686,EFO:0007116 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007116,UCSF-4,cell_line,embryonic,H3K27me3,encode,single,False,0.9684178829193115
+687,EFO:0007116 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007116,UCSF-4,cell_line,embryonic,H3K36me3,encode,single,False,0.9719266891479492
+688,EFO:0007116 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007116,UCSF-4,cell_line,embryonic,H3K4me1,encode,single,False,0.9426586031913757
+689,EFO:0007116 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007116,UCSF-4,cell_line,embryonic,H3K4me3,encode,single,False,0.9728504419326782
+690,EFO:0007116 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0007116,UCSF-4,cell_line,embryonic,H3K9me3,encode,single,False,1.1920392513275146
+691,EFO:0007598 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007598,HAP-1,cell_line,adult,H3K27ac,encode,paired,False,0.777906596660614
+692,EFO:0007598 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007598,HAP-1,cell_line,adult,H3K36me3,encode,paired,False,0.7863885164260864
+693,EFO:0007598 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007598,HAP-1,cell_line,adult,H3K4me1,encode,paired,False,0.7626118659973145
+694,EFO:0007598 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007598,HAP-1,cell_line,adult,H3K4me3,encode,paired,False,0.7728875279426575
+695,EFO:0007610 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007610,RWPE2,cell_line,adult,H3K27ac,encode,paired,False,0.758574903011322
+696,EFO:0007610 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007610,RWPE2,cell_line,unknown,H3K36me3,encode,paired,False,0.7755931615829468
+697,EFO:0007610 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007610,RWPE2,cell_line,unknown,H3K4me3,encode,paired,False,0.6467007398605347
+698,EFO:0007752 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007752,VCaP,cell_line,adult,H3K27ac,encode,paired,False,0.8279675841331482
+699,EFO:0007950 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,EFO:0007950,GM23338,cell_line,adult,H2AFZ,encode,paired,False,0.7917439341545105
+700,EFO:0007950 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0007950,GM23338,cell_line,adult,H3K27ac,encode,paired,False,0.7947958111763
+701,EFO:0007950 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0007950,GM23338,cell_line,adult,H3K27me3,encode,single,False,0.8958479762077332
+702,EFO:0007950 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0007950,GM23338,cell_line,adult,H3K36me3,encode,paired,False,0.8456178903579712
+703,EFO:0007950 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0007950,GM23338,cell_line,adult,H3K4me1,encode,paired,False,0.8153598308563232
+704,EFO:0007950 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0007950,GM23338,cell_line,adult,H3K4me2,encode,single,False,0.8118318319320679
+705,EFO:0007950 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0007950,GM23338,cell_line,adult,H3K4me3,encode,single,False,0.8339612483978271
+706,EFO:0007950 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,EFO:0007950,GM23338,cell_line,adult,H3K79me2,encode,paired,False,0.8553295731544495
+707,EFO:0007950 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0007950,GM23338,cell_line,adult,H4K20me1,encode,paired,False,0.8245225548744202
+708,EFO:0030018 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,EFO:0030018,BLaER1,cell_line,unknown,H3K27ac,encode,single,False,0.8453137874603271
+709,EFO:0030018 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,EFO:0030018,BLaER1,cell_line,unknown,H3K27me3,encode,single,False,0.8831771016120911
+710,EFO:0030018 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,EFO:0030018,BLaER1,cell_line,unknown,H3K36me3,encode,single,False,0.8955613970756531
+711,EFO:0030018 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,EFO:0030018,BLaER1,cell_line,unknown,H3K4me1,encode,single,False,0.9010633826255798
+712,EFO:0030018 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,EFO:0030018,BLaER1,cell_line,unknown,H3K4me2,encode,single,False,0.9807412028312683
+713,EFO:0030018 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,EFO:0030018,BLaER1,cell_line,unknown,H3K4me3,encode,single,False,0.866553783416748
+714,EFO:0030018 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,EFO:0030018,BLaER1,cell_line,unknown,H3K9ac,encode,single,False,0.8512776494026184
+715,EFO:0030018 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,EFO:0030018,BLaER1,cell_line,unknown,H3K9me3,encode,single,False,0.9261501431465149
+716,EFO:0030018 Histone ChIP-seq H4K20me1,.,Histone ChIP-seq,EFO:0030018,BLaER1,cell_line,unknown,H4K20me1,encode,single,False,0.8451873660087585
+717,NTR:0000427 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,NTR:0000427,neurosphere,primary_cell,embryonic,H3K27ac,encode,paired,False,1.0220340490341187
+718,NTR:0000427 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,NTR:0000427,neurosphere,primary_cell,embryonic,H3K27me3,encode,single,False,0.9329742193222046
+719,NTR:0000427 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,NTR:0000427,neurosphere,primary_cell,embryonic,H3K36me3,encode,single,False,0.8910112380981445
+720,NTR:0000427 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,NTR:0000427,neurosphere,primary_cell,embryonic,H3K4me1,encode,single,False,0.8559538722038269
+721,NTR:0000427 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,NTR:0000427,neurosphere,primary_cell,embryonic,H3K4me3,encode,paired,False,1.0345739126205444
+722,NTR:0000427 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,NTR:0000427,neurosphere,primary_cell,embryonic,H3K9me3,encode,single,False,0.8926787376403809
+723,NTR:0000493 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,NTR:0000493,left ventricle myocardium inferior,tissue,adult,H3K27ac,encode,single,False,1.01837956905365
+724,NTR:0000493 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,NTR:0000493,left ventricle myocardium inferior,tissue,adult,H3K27me3,encode,single,False,0.864700436592102
+725,NTR:0000493 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,NTR:0000493,left ventricle myocardium inferior,tissue,adult,H3K36me3,encode,single,False,0.8186243176460266
+726,NTR:0000493 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,NTR:0000493,left ventricle myocardium inferior,tissue,adult,H3K4me1,encode,single,False,0.8264829516410828
+727,NTR:0000493 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,NTR:0000493,left ventricle myocardium inferior,tissue,adult,H3K4me3,encode,single,False,1.0564485788345337
+728,NTR:0000493 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,NTR:0000493,left ventricle myocardium inferior,tissue,adult,H3K9me3,encode,single,False,0.8471832871437073
+729,NTR:0000856 Histone ChIP-seq H3K18ac,.,Histone ChIP-seq,NTR:0000856,mesendoderm,in_vitro_differentiated_cells,embryonic,H3K18ac,encode,single,False,0.8934034705162048
+730,NTR:0000856 Histone ChIP-seq H3K4ac,.,Histone ChIP-seq,NTR:0000856,mesendoderm,in_vitro_differentiated_cells,embryonic,H3K4ac,encode,single,False,1.5615620613098145
+731,NTR:0000856 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,NTR:0000856,mesendoderm,in_vitro_differentiated_cells,embryonic,H3K4me2,encode,single,False,0.8411622643470764
+732,NTR:0000856 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,NTR:0000856,mesendoderm,in_vitro_differentiated_cells,embryonic,H3K4me3,encode,single,False,0.7826849222183228
+733,NTR:0000856 Histone ChIP-seq H3K56ac,.,Histone ChIP-seq,NTR:0000856,mesendoderm,in_vitro_differentiated_cells,embryonic,H3K56ac,encode,single,False,1.2835445404052734
+734,NTR:0000856 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,NTR:0000856,mesendoderm,in_vitro_differentiated_cells,embryonic,H3K79me2,encode,single,False,0.860698938369751
+735,NTR:0000856 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,NTR:0000856,mesendoderm,in_vitro_differentiated_cells,embryonic,H3K9ac,encode,single,False,0.8375087380409241
+736,NTR:0001226 Histone ChIP-seq H2AFZ,.,Histone ChIP-seq,NTR:0001226,parathyroid adenoma,tissue,adult,H2AFZ,encode,single,False,0.8161088228225708
+737,NTR:0001226 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,NTR:0001226,parathyroid adenoma,tissue,adult,H3K27ac,encode,single,False,0.7947527170181274
+738,NTR:0001226 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,NTR:0001226,parathyroid adenoma,tissue,adult,H3K4me1,encode,single,False,0.807529628276825
+739,NTR:0001226 Histone ChIP-seq H3K4me2,.,Histone ChIP-seq,NTR:0001226,parathyroid adenoma,tissue,adult,H3K4me2,encode,single,False,0.8124940991401672
+740,NTR:0001226 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,NTR:0001226,parathyroid adenoma,tissue,adult,H3K4me3,encode,single,False,1.165473461151123
+741,NTR:0001226 Histone ChIP-seq H3K79me2,.,Histone ChIP-seq,NTR:0001226,parathyroid adenoma,tissue,adult,H3K79me2,encode,single,False,0.7845446467399597
+742,NTR:0001407 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,NTR:0001407,germinal matrix,tissue,embryonic,H3K27me3,encode,single,False,1.1895791292190552
+743,NTR:0001407 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,NTR:0001407,germinal matrix,tissue,embryonic,H3K36me3,encode,single,False,0.9429861903190613
+744,NTR:0001407 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,NTR:0001407,germinal matrix,tissue,embryonic,H3K4me1,encode,single,False,0.9059633016586304
+745,NTR:0001407 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,NTR:0001407,germinal matrix,tissue,embryonic,H3K4me3,encode,single,False,1.1096848249435425
+746,NTR:0001407 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,NTR:0001407,germinal matrix,tissue,embryonic,H3K9me3,encode,single,False,1.0260707139968872
+747,NTR:0003013 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,NTR:0003013,placental basal plate,tissue,embryonic,H3K27ac,encode,single,False,1.4060741662979126
+748,NTR:0003079 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,NTR:0003079,fibroblast of breast,primary_cell,adult,H3K27ac,encode,single,False,0.7597173452377319
+749,NTR:0003079 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,NTR:0003079,fibroblast of breast,primary_cell,adult,H3K36me3,encode,single,False,1.0632909536361694
+750,NTR:0003079 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,NTR:0003079,fibroblast of breast,primary_cell,adult,H3K4me1,encode,single,False,0.8757542967796326
+751,NTR:0003079 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,NTR:0003079,fibroblast of breast,primary_cell,adult,H3K4me3,encode,single,False,0.8202831149101257
+752,UBERON:0000016 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000016,endocrine pancreas,tissue,adult,H3K27ac,encode,single,False,1.4828875064849854
+753,UBERON:0000016 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000016,endocrine pancreas,tissue,adult,H3K36me3,encode,single,False,2.1891863346099854
+754,UBERON:0000016 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000016,endocrine pancreas,tissue,adult,H3K4me1,encode,single,False,2.137770652770996
+755,UBERON:0000016 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000016,endocrine pancreas,tissue,adult,H3K4me3,encode,single,False,1.4818469285964966
+756,UBERON:0000016 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0000016,endocrine pancreas,tissue,adult,H3K9ac,encode,single,False,2.1529765129089355
+757,UBERON:0000059 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000059,large intestine,tissue,embryonic,H3K27ac,encode,single,False,1.276995062828064
+758,UBERON:0000059 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0000059,large intestine,tissue,embryonic,H3K27me3,encode,single,False,0.9727251529693604
+759,UBERON:0000059 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000059,large intestine,tissue,embryonic,H3K36me3,encode,single,False,0.9926259517669678
+760,UBERON:0000059 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000059,large intestine,tissue,embryonic,H3K4me1,encode,single,False,1.1485345363616943
+761,UBERON:0000059 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000059,large intestine,tissue,embryonic,H3K4me3,encode,single,False,1.3408679962158203
+762,UBERON:0000059 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0000059,large intestine,tissue,embryonic,H3K9me3,encode,single,False,1.536685585975647
+763,UBERON:0000088 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000088,trophoblast,tissue,embryonic,H3K27ac,encode,single,False,1.0545294284820557
+764,UBERON:0000088 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000088,trophoblast,tissue,embryonic,H3K36me3,encode,single,False,0.7907378077507019
+765,UBERON:0000088 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000088,trophoblast,tissue,embryonic,H3K4me1,encode,single,False,1.0091884136199951
+766,UBERON:0000305 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000305,amnion,tissue,embryonic,H3K36me3,encode,single,False,1.0920192003250122
+767,UBERON:0000305 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000305,amnion,tissue,embryonic,H3K4me1,encode,single,False,1.0551388263702393
+768,UBERON:0000305 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000305,amnion,tissue,embryonic,H3K4me3,encode,single,False,0.9844587445259094
+769,UBERON:0000317 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000317,colonic mucosa,tissue,adult,H3K27ac,encode,single,False,0.7492919564247131
+770,UBERON:0000317 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0000317,colonic mucosa,tissue,adult,H3K27me3,encode,single,False,1.7739183902740479
+771,UBERON:0000317 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000317,colonic mucosa,tissue,adult,H3K36me3,encode,single,False,1.8659192323684692
+772,UBERON:0000317 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000317,colonic mucosa,tissue,adult,H3K4me1,encode,single,False,0.9417597651481628
+773,UBERON:0000317 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000317,colonic mucosa,tissue,adult,H3K4me3,encode,single,False,0.739352285861969
+774,UBERON:0000317 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0000317,colonic mucosa,tissue,adult,H3K9ac,encode,single,False,0.9502277374267578
+775,UBERON:0000320 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000320,duodenal mucosa,tissue,adult,H3K27ac,encode,single,False,1.5512161254882812
+776,UBERON:0000320 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0000320,duodenal mucosa,tissue,adult,H3K27me3,encode,single,False,1.077257752418518
+777,UBERON:0000320 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000320,duodenal mucosa,tissue,adult,H3K36me3,encode,single,False,0.8997368216514587
+778,UBERON:0000320 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000320,duodenal mucosa,tissue,adult,H3K4me1,encode,single,False,0.8478185534477234
+779,UBERON:0000320 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000320,duodenal mucosa,tissue,adult,H3K4me3,encode,single,False,0.9015464782714844
+780,UBERON:0000320 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0000320,duodenal mucosa,tissue,adult,H3K9ac,encode,single,False,0.8578343391418457
+781,UBERON:0000320 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0000320,duodenal mucosa,tissue,adult,H3K9me3,encode,single,False,1.0300414562225342
+782,UBERON:0000473 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000473,testis,tissue,adult,H3K27ac,encode,single,False,0.8015499114990234
+783,UBERON:0000473 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000473,testis,tissue,adult,H3K4me1,encode,single,False,0.8120537400245667
+784,UBERON:0000473 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000473,testis,tissue,adult,H3K4me3,encode,single,False,0.8049049973487854
+785,UBERON:0000945 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000945,stomach,tissue,adult,H3K27ac,encode,single,False,1.3241729736328125
+786,UBERON:0000945 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0000945,stomach,tissue,adult,H3K27me3,encode,single,False,0.8545126914978027
+787,UBERON:0000945 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000945,stomach,tissue,adult,H3K36me3,encode,single,False,0.8173034191131592
+788,UBERON:0000945 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000945,stomach,tissue,adult,H3K4me1,encode,single,False,0.8793164491653442
+789,UBERON:0000945 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000945,stomach,tissue,adult,H3K4me3,encode,single,False,0.7691627740859985
+790,UBERON:0000945 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0000945,stomach,tissue,adult,H3K9me3,encode,single,False,0.8707597255706787
+791,UBERON:0000947 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000947,aorta,tissue,adult,H3K27ac,encode,single,False,0.8740572929382324
+792,UBERON:0000947 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000947,aorta,tissue,adult,H3K36me3,encode,single,False,1.1076427698135376
+793,UBERON:0000947 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000947,aorta,tissue,adult,H3K4me3,encode,single,False,0.8130810856819153
+794,UBERON:0000948 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0000948,heart,tissue,embryonic,H3K27me3,encode,single,False,1.3972610235214233
+795,UBERON:0000948 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000948,heart,tissue,embryonic,H3K4me1,encode,single,False,2.119180202484131
+796,UBERON:0000948 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000948,heart,tissue,embryonic,H3K4me3,encode,single,False,1.5036487579345703
+797,UBERON:0000948 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0000948,heart,tissue,embryonic,H3K9ac,encode,single,False,2.4713633060455322
+798,UBERON:0000955 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0000955,brain,tissue,embryonic,H3K27me3,encode,single,False,0.8013409972190857
+799,UBERON:0000955 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000955,brain,tissue,embryonic,H3K36me3,encode,single,False,0.7830002307891846
+800,UBERON:0000955 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000955,brain,tissue,embryonic,H3K4me1,encode,single,False,0.8544619083404541
+801,UBERON:0000955 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000955,brain,tissue,embryonic,H3K4me3,encode,single,False,1.043258786201477
+802,UBERON:0000955 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0000955,brain,tissue,embryonic,H3K9me3,encode,single,False,0.9674521684646606
+803,UBERON:0000992 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000992,ovary,tissue,adult,H3K27ac,encode,single,False,0.720077633857727
+804,UBERON:0000992 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0000992,ovary,tissue,adult,H3K27me3,encode,single,False,0.9560567140579224
+805,UBERON:0000992 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000992,ovary,tissue,adult,H3K36me3,encode,single,False,1.3437166213989258
+806,UBERON:0000992 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000992,ovary,tissue,adult,H3K4me1,encode,single,False,1.3047332763671875
+807,UBERON:0000992 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000992,ovary,tissue,adult,H3K4me3,encode,single,False,0.7095605134963989
+808,UBERON:0000992 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0000992,ovary,tissue,adult,H3K9me3,encode,single,False,0.879421055316925
+809,UBERON:0000995 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000995,uterus,tissue,adult,H3K27ac,encode,single,False,0.8092418909072876
+810,UBERON:0000995 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000995,uterus,tissue,adult,H3K4me3,encode,single,False,0.8103049397468567
+811,UBERON:0000996 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0000996,vagina,tissue,adult,H3K27ac,encode,single,False,1.0347249507904053
+812,UBERON:0000996 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0000996,vagina,tissue,adult,H3K36me3,encode,single,False,0.8707129955291748
+813,UBERON:0000996 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0000996,vagina,tissue,adult,H3K4me1,encode,single,False,0.8535761833190918
+814,UBERON:0000996 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0000996,vagina,tissue,adult,H3K4me3,encode,single,False,0.8425154089927673
+815,UBERON:0001003 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001003,skin epidermis,tissue,adult,H3K27ac,encode,single,False,0.7780634164810181
+816,UBERON:0001003 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001003,skin epidermis,tissue,adult,H3K4me3,encode,single,False,0.7833503484725952
+817,UBERON:0001043 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001043,esophagus,tissue,adult,H3K27ac,encode,single,False,1.2696486711502075
+818,UBERON:0001043 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001043,esophagus,tissue,adult,H3K36me3,encode,single,False,1.5379191637039185
+819,UBERON:0001043 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001043,esophagus,tissue,adult,H3K4me1,encode,single,False,1.4723411798477173
+820,UBERON:0001043 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001043,esophagus,tissue,adult,H3K4me3,encode,single,False,0.9049034118652344
+821,UBERON:0001043 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0001043,esophagus,tissue,adult,H3K9me3,encode,single,False,1.5137780904769897
+822,UBERON:0001114 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001114,right lobe of liver,tissue,adult,H3K27ac,encode,single,False,0.7784299850463867
+823,UBERON:0001114 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001114,right lobe of liver,tissue,adult,H3K36me3,encode,single,False,0.8362173438072205
+824,UBERON:0001114 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001114,right lobe of liver,tissue,adult,H3K4me1,encode,single,False,0.8233218193054199
+825,UBERON:0001114 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001114,right lobe of liver,tissue,adult,H3K4me3,encode,single,False,0.7803559899330139
+826,UBERON:0001134 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001134,skeletal muscle tissue,tissue,adult,H3K27ac,encode,single,False,1.3797202110290527
+827,UBERON:0001134 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0001134,skeletal muscle tissue,tissue,adult,H3K27me3,encode,single,False,0.8649007081985474
+828,UBERON:0001134 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001134,skeletal muscle tissue,tissue,adult,H3K36me3,encode,single,False,0.8371026515960693
+829,UBERON:0001134 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001134,skeletal muscle tissue,tissue,adult,H3K4me1,encode,single,False,0.9665578007698059
+830,UBERON:0001134 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001134,skeletal muscle tissue,tissue,adult,H3K4me3,encode,single,False,0.8837461471557617
+831,UBERON:0001134 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0001134,skeletal muscle tissue,tissue,adult,H3K9ac,encode,single,False,1.0119422674179077
+832,UBERON:0001150 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001150,body of pancreas,tissue,adult,H3K27ac,encode,single,False,0.8846782445907593
+833,UBERON:0001150 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001150,body of pancreas,tissue,adult,H3K4me1,encode,single,False,0.8054571151733398
+834,UBERON:0001150 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001150,body of pancreas,tissue,adult,H3K4me3,encode,single,False,0.8380602598190308
+835,UBERON:0001157 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001157,transverse colon,tissue,adult,H3K27ac,encode,single,False,0.7854095697402954
+836,UBERON:0001157 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0001157,transverse colon,tissue,adult,H3K27me3,encode,single,False,0.8251835703849792
+837,UBERON:0001157 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001157,transverse colon,tissue,adult,H3K36me3,encode,single,False,0.8235317468643188
+838,UBERON:0001157 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001157,transverse colon,tissue,adult,H3K4me1,encode,single,False,0.8129381537437439
+839,UBERON:0001157 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001157,transverse colon,tissue,adult,H3K4me3,encode,single,False,0.8056944012641907
+840,UBERON:0001159 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001159,sigmoid colon,tissue,adult,H3K27ac,encode,single,False,0.7376067638397217
+841,UBERON:0001159 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0001159,sigmoid colon,tissue,adult,H3K27me3,encode,single,False,0.862529993057251
+842,UBERON:0001159 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001159,sigmoid colon,tissue,adult,H3K36me3,encode,single,False,0.8250663876533508
+843,UBERON:0001159 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001159,sigmoid colon,tissue,adult,H3K4me1,encode,single,False,0.8141694664955139
+844,UBERON:0001159 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001159,sigmoid colon,tissue,adult,H3K4me3,encode,single,False,0.9082852602005005
+845,UBERON:0001199 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0001199,mucosa of stomach,tissue,adult,H3K27me3,encode,single,False,0.9448559880256653
+846,UBERON:0001199 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001199,mucosa of stomach,tissue,adult,H3K4me1,encode,single,False,0.9851387739181519
+847,UBERON:0001199 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001199,mucosa of stomach,tissue,adult,H3K4me3,encode,single,False,0.9022591710090637
+848,UBERON:0001199 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0001199,mucosa of stomach,tissue,adult,H3K9ac,encode,single,False,0.9789822101593018
+849,UBERON:0001211 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001211,Peyer's patch,tissue,adult,H3K27ac,encode,single,False,1.0645337104797363
+850,UBERON:0001211 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001211,Peyer's patch,tissue,adult,H3K36me3,encode,single,False,0.8398535251617432
+851,UBERON:0001211 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001211,Peyer's patch,tissue,adult,H3K4me1,encode,single,False,0.8229295015335083
+852,UBERON:0001211 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001211,Peyer's patch,tissue,adult,H3K4me3,encode,single,False,0.8059539198875427
+853,UBERON:0001211 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0001211,Peyer's patch,tissue,adult,H3K9me3,encode,single,False,0.8079014420509338
+854,UBERON:0001255 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001255,urinary bladder,tissue,adult,H3K27ac,encode,single,False,1.5340087413787842
+855,UBERON:0001255 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001255,urinary bladder,tissue,adult,H3K4me3,encode,single,False,1.249588966369629
+856,UBERON:0001264 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001264,pancreas,tissue,adult,H3K27ac,encode,single,False,0.7563256025314331
+857,UBERON:0001264 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001264,pancreas,tissue,adult,H3K36me3,encode,single,False,0.8419210314750671
+858,UBERON:0001264 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001264,pancreas,tissue,adult,H3K4me1,encode,single,False,0.7936822772026062
+859,UBERON:0001264 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001264,pancreas,tissue,adult,H3K4me3,encode,single,False,0.7248829007148743
+860,UBERON:0001264 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0001264,pancreas,tissue,adult,H3K9me3,encode,single,False,1.5992413759231567
+861,UBERON:0001323 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001323,tibial nerve,tissue,adult,H3K27ac,encode,single,False,1.3211156129837036
+862,UBERON:0001323 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0001323,tibial nerve,tissue,adult,H3K27me3,encode,single,False,0.8642919063568115
+863,UBERON:0001323 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001323,tibial nerve,tissue,adult,H3K36me3,encode,single,False,0.9108094573020935
+864,UBERON:0001323 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001323,tibial nerve,tissue,adult,H3K4me1,encode,single,False,0.8470635414123535
+865,UBERON:0001323 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001323,tibial nerve,tissue,adult,H3K4me3,encode,single,False,0.9945918917655945
+866,UBERON:0001323 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0001323,tibial nerve,tissue,adult,H3K9me3,encode,single,False,0.9940832257270813
+867,UBERON:0001383 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001383,muscle of leg,tissue,embryonic,H3K27ac,encode,single,False,1.4244413375854492
+868,UBERON:0001383 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0001383,muscle of leg,tissue,embryonic,H3K27me3,encode,single,False,1.6756627559661865
+869,UBERON:0001383 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001383,muscle of leg,tissue,embryonic,H3K36me3,encode,single,False,1.3110146522521973
+870,UBERON:0001383 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001383,muscle of leg,tissue,embryonic,H3K4me1,encode,single,False,1.5736838579177856
+871,UBERON:0001383 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001383,muscle of leg,tissue,embryonic,H3K4me3,encode,single,False,1.1692146062850952
+872,UBERON:0001383 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0001383,muscle of leg,tissue,embryonic,H3K9me3,encode,single,False,0.9339243769645691
+873,UBERON:0001496 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001496,ascending aorta,tissue,adult,H3K27ac,encode,single,False,0.941458523273468
+874,UBERON:0001496 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001496,ascending aorta,tissue,adult,H3K36me3,encode,single,False,0.7998642921447754
+875,UBERON:0001496 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001496,ascending aorta,tissue,adult,H3K4me1,encode,single,False,0.7923071384429932
+876,UBERON:0001496 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001496,ascending aorta,tissue,adult,H3K4me3,encode,single,False,1.0133315324783325
+877,UBERON:0001496 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0001496,ascending aorta,tissue,adult,H3K9me3,encode,single,False,0.8675394654273987
+878,UBERON:0001515 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001515,thoracic aorta,tissue,adult,H3K27ac,encode,single,False,0.7655042409896851
+879,UBERON:0001515 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001515,thoracic aorta,tissue,adult,H3K36me3,encode,single,False,0.8727486729621887
+880,UBERON:0001515 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001515,thoracic aorta,tissue,adult,H3K4me1,encode,single,False,0.766152560710907
+881,UBERON:0001515 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001515,thoracic aorta,tissue,adult,H3K4me3,encode,single,False,0.7468891739845276
+882,UBERON:0001621 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001621,coronary artery,tissue,adult,H3K27ac,encode,single,False,1.356512188911438
+883,UBERON:0001621 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001621,coronary artery,tissue,adult,H3K4me3,encode,single,False,0.8368509411811829
+884,UBERON:0001774 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001774,muscle of trunk,tissue,embryonic,H3K27ac,encode,single,False,1.3104538917541504
+885,UBERON:0001774 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0001774,muscle of trunk,tissue,embryonic,H3K27me3,encode,single,False,1.8899438381195068
+886,UBERON:0001774 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001774,muscle of trunk,tissue,embryonic,H3K36me3,encode,single,False,1.3060396909713745
+887,UBERON:0001774 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001774,muscle of trunk,tissue,embryonic,H3K4me1,encode,single,False,2.113858461380005
+888,UBERON:0001774 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001774,muscle of trunk,tissue,embryonic,H3K4me3,encode,single,False,1.0175188779830933
+889,UBERON:0001774 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0001774,muscle of trunk,tissue,embryonic,H3K9me3,encode,single,False,1.3337962627410889
+890,UBERON:0001871 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001871,temporal lobe,tissue,adult,H3K27ac,encode,single,False,0.9006586670875549
+891,UBERON:0001871 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001871,temporal lobe,tissue,adult,H3K36me3,encode,single,False,0.8488104343414307
+892,UBERON:0001871 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001871,temporal lobe,tissue,adult,H3K4me1,encode,single,False,0.8646435141563416
+893,UBERON:0001871 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001871,temporal lobe,tissue,adult,H3K4me3,encode,single,False,0.8694230914115906
+894,UBERON:0001871 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0001871,temporal lobe,tissue,adult,H3K9ac,encode,single,False,1.1393189430236816
+895,UBERON:0001873 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001873,caudate nucleus,tissue,adult,H3K27ac,encode,single,False,0.9687084555625916
+896,UBERON:0001873 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001873,caudate nucleus,tissue,adult,H3K36me3,encode,single,False,0.8227593898773193
+897,UBERON:0001873 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001873,caudate nucleus,tissue,adult,H3K4me1,encode,single,False,0.8329311609268188
+898,UBERON:0001873 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001873,caudate nucleus,tissue,adult,H3K4me3,encode,single,False,0.8766636848449707
+899,UBERON:0001873 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0001873,caudate nucleus,tissue,adult,H3K9ac,encode,single,False,1.1741129159927368
+900,UBERON:0001987 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0001987,placenta,tissue,embryonic,H3K27ac,encode,single,False,0.7619684338569641
+901,UBERON:0001987 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0001987,placenta,tissue,embryonic,H3K27me3,encode,single,False,0.9213661551475525
+902,UBERON:0001987 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0001987,placenta,tissue,embryonic,H3K36me3,encode,single,False,1.5290863513946533
+903,UBERON:0001987 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0001987,placenta,tissue,embryonic,H3K4me1,encode,single,False,1.3510398864746094
+904,UBERON:0001987 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0001987,placenta,tissue,embryonic,H3K4me3,encode,single,False,0.7686141729354858
+905,UBERON:0001987 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0001987,placenta,tissue,embryonic,H3K9me3,encode,single,False,1.201725721359253
+906,UBERON:0002037 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002037,cerebellum,tissue,adult,H3K4me3,encode,single,False,1.2195651531219482
+907,UBERON:0002038 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002038,substantia nigra,tissue,adult,H3K27ac,encode,single,False,0.9022706151008606
+908,UBERON:0002038 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002038,substantia nigra,tissue,adult,H3K36me3,encode,single,False,0.8933779001235962
+909,UBERON:0002038 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002038,substantia nigra,tissue,adult,H3K4me1,encode,single,False,1.0500805377960205
+910,UBERON:0002038 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002038,substantia nigra,tissue,adult,H3K4me3,encode,single,False,0.8325366973876953
+911,UBERON:0002038 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0002038,substantia nigra,tissue,adult,H3K9ac,encode,single,False,1.0571855306625366
+912,UBERON:0002046 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002046,thyroid gland,tissue,adult,H3K27ac,encode,single,False,1.0849581956863403
+913,UBERON:0002046 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002046,thyroid gland,tissue,adult,H3K36me3,encode,single,False,0.8517771363258362
+914,UBERON:0002046 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002046,thyroid gland,tissue,adult,H3K4me1,encode,single,False,0.8095167279243469
+915,UBERON:0002046 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002046,thyroid gland,tissue,adult,H3K4me3,encode,single,False,1.038463830947876
+916,UBERON:0002048 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002048,lung,tissue,adult,H3K27ac,encode,single,False,1.4589347839355469
+917,UBERON:0002048 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002048,lung,tissue,embryonic,H3K27me3,encode,single,False,0.9830350279808044
+918,UBERON:0002048 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002048,lung,tissue,adult,H3K36me3,encode,single,False,1.7142006158828735
+919,UBERON:0002048 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002048,lung,tissue,adult,H3K4me1,encode,single,False,2.136195182800293
+920,UBERON:0002048 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002048,lung,tissue,adult,H3K4me3,encode,single,False,1.4228606224060059
+921,UBERON:0002048 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0002048,lung,tissue,embryonic,H3K9ac,encode,single,False,1.1020851135253906
+922,UBERON:0002048 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0002048,lung,tissue,adult,H3K9me3,encode,single,False,1.596697211265564
+923,UBERON:0002078 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002078,right cardiac atrium,tissue,adult,H3K27ac,encode,single,False,1.2285999059677124
+924,UBERON:0002078 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002078,right cardiac atrium,tissue,adult,H3K4me1,encode,single,False,1.5381871461868286
+925,UBERON:0002078 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002078,right cardiac atrium,tissue,adult,H3K4me3,encode,single,False,0.9993526339530945
+926,UBERON:0002080 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002080,heart right ventricle,tissue,adult,H3K27ac,encode,single,False,0.742721438407898
+927,UBERON:0002080 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002080,heart right ventricle,tissue,adult,H3K27me3,encode,single,False,0.8221991062164307
+928,UBERON:0002080 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002080,heart right ventricle,tissue,adult,H3K36me3,encode,single,False,0.7794134616851807
+929,UBERON:0002080 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002080,heart right ventricle,tissue,adult,H3K4me1,encode,single,False,0.7713398337364197
+930,UBERON:0002080 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002080,heart right ventricle,tissue,adult,H3K4me3,encode,single,False,0.7453254461288452
+931,UBERON:0002080 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0002080,heart right ventricle,tissue,adult,H3K9me3,encode,single,False,0.8001134991645813
+932,UBERON:0002084 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002084,heart left ventricle,tissue,adult,H3K27ac,encode,single,False,0.8882824778556824
+933,UBERON:0002084 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002084,heart left ventricle,tissue,adult,H3K27me3,encode,single,False,0.7984142303466797
+934,UBERON:0002084 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002084,heart left ventricle,tissue,adult,H3K36me3,encode,single,False,0.8181394338607788
+935,UBERON:0002084 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002084,heart left ventricle,tissue,adult,H3K4me1,encode,single,False,0.8571037650108337
+936,UBERON:0002084 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002084,heart left ventricle,tissue,adult,H3K4me3,encode,single,False,0.7315558195114136
+937,UBERON:0002084 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0002084,heart left ventricle,tissue,adult,H3K9me3,encode,single,False,0.890792191028595
+938,UBERON:0002106 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002106,spleen,tissue,adult,H3K27ac,encode,single,False,0.7800244092941284
+939,UBERON:0002106 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002106,spleen,tissue,adult,H3K27me3,encode,single,False,0.8321865200996399
+940,UBERON:0002106 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002106,spleen,tissue,adult,H3K36me3,encode,single,False,0.8215964436531067
+941,UBERON:0002106 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002106,spleen,tissue,adult,H3K4me1,encode,single,False,0.8138890862464905
+942,UBERON:0002106 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002106,spleen,tissue,adult,H3K4me3,encode,single,False,0.7977772951126099
+943,UBERON:0002106 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0002106,spleen,tissue,adult,H3K9me3,encode,single,False,0.8140273690223694
+944,UBERON:0002107 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002107,liver,tissue,adult,H3K27ac,encode,single,False,0.9069214463233948
+945,UBERON:0002107 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002107,liver,tissue,adult,H3K36me3,encode,single,False,0.8101385235786438
+946,UBERON:0002107 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002107,liver,tissue,adult,H3K4me1,encode,single,False,0.7480568885803223
+947,UBERON:0002107 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002107,liver,tissue,adult,H3K4me3,encode,single,False,0.7054669857025146
+948,UBERON:0002107 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0002107,liver,tissue,adult,H3K9ac,encode,single,False,0.8565387725830078
+949,UBERON:0002107 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0002107,liver,tissue,adult,H3K9me3,encode,single,False,1.423638939857483
+950,UBERON:0002108 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002108,small intestine,tissue,adult,H3K27ac,encode,single,False,1.5306456089019775
+951,UBERON:0002108 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002108,small intestine,tissue,embryonic,H3K27me3,encode,single,False,1.321641445159912
+952,UBERON:0002108 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002108,small intestine,tissue,adult,H3K36me3,encode,single,False,1.1116917133331299
+953,UBERON:0002108 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002108,small intestine,tissue,embryonic,H3K4me1,encode,single,False,1.1648976802825928
+954,UBERON:0002108 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002108,small intestine,tissue,adult,H3K4me3,encode,single,False,0.9390207529067993
+955,UBERON:0002108 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0002108,small intestine,tissue,embryonic,H3K9me3,encode,single,False,1.295670986175537
+956,UBERON:0002113 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002113,kidney,tissue,adult,H3K27ac,encode,single,False,0.9552195072174072
+957,UBERON:0002113 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002113,kidney,tissue,adult,H3K36me3,encode,single,False,0.798854410648346
+958,UBERON:0002113 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002113,kidney,tissue,adult,H3K4me1,encode,single,False,0.8005074858665466
+959,UBERON:0002113 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002113,kidney,tissue,adult,H3K4me3,encode,single,False,0.7985708117485046
+960,UBERON:0002113 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0002113,kidney,tissue,adult,H3K9ac,encode,single,False,0.8986935615539551
+961,UBERON:0002168 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002168,left lung,tissue,adult,H3K27ac,encode,single,False,0.8949621319770813
+962,UBERON:0002168 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002168,left lung,tissue,adult,H3K27me3,encode,single,False,0.8752104640007019
+963,UBERON:0002168 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002168,left lung,tissue,adult,H3K36me3,encode,single,False,0.8681212663650513
+964,UBERON:0002168 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002168,left lung,tissue,adult,H3K4me1,encode,single,False,0.9048176407814026
+965,UBERON:0002168 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002168,left lung,tissue,adult,H3K4me3,encode,single,False,0.9501997828483582
+966,UBERON:0002168 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0002168,left lung,tissue,adult,H3K9me3,encode,single,False,1.1099082231521606
+967,UBERON:0002170 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002170,upper lobe of right lung,tissue,adult,H3K27ac,encode,single,False,0.8909234404563904
+968,UBERON:0002170 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002170,upper lobe of right lung,tissue,adult,H3K36me3,encode,single,False,0.8416327834129333
+969,UBERON:0002170 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002170,upper lobe of right lung,tissue,adult,H3K4me1,encode,single,False,0.8523540496826172
+970,UBERON:0002170 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002170,upper lobe of right lung,tissue,adult,H3K4me3,encode,single,False,0.9516236186027527
+971,UBERON:0002171 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002171,lower lobe of right lung,tissue,adult,H3K27ac,encode,single,False,0.9444779753684998
+972,UBERON:0002171 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002171,lower lobe of right lung,tissue,adult,H3K27me3,encode,single,False,0.9000256061553955
+973,UBERON:0002171 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002171,lower lobe of right lung,tissue,adult,H3K36me3,encode,single,False,0.8784345984458923
+974,UBERON:0002171 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002171,lower lobe of right lung,tissue,adult,H3K4me1,encode,single,False,0.8521840572357178
+975,UBERON:0002171 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002171,lower lobe of right lung,tissue,adult,H3K4me3,encode,single,False,0.9574486017227173
+976,UBERON:0002240 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002240,spinal cord,tissue,embryonic,H3K27ac,encode,single,False,1.5454556941986084
+977,UBERON:0002240 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002240,spinal cord,tissue,embryonic,H3K27me3,encode,single,False,1.2282136678695679
+978,UBERON:0002240 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002240,spinal cord,tissue,embryonic,H3K36me3,encode,single,False,1.335628867149353
+979,UBERON:0002240 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002240,spinal cord,tissue,embryonic,H3K4me1,encode,single,False,2.040064573287964
+980,UBERON:0002240 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002240,spinal cord,tissue,embryonic,H3K4me3,encode,single,False,1.6200331449508667
+981,UBERON:0002305 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002305,layer of hippocampus,tissue,adult,H3K27ac,encode,single,False,0.9011349081993103
+982,UBERON:0002305 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002305,layer of hippocampus,tissue,adult,H3K36me3,encode,single,False,0.7941612601280212
+983,UBERON:0002305 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002305,layer of hippocampus,tissue,adult,H3K4me1,encode,single,False,0.8219332695007324
+984,UBERON:0002305 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002305,layer of hippocampus,tissue,adult,H3K4me3,encode,single,False,0.7843244075775146
+985,UBERON:0002305 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0002305,layer of hippocampus,tissue,adult,H3K9ac,encode,single,False,1.1184202432632446
+986,UBERON:0002367 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002367,prostate gland,tissue,adult,H3K27ac,encode,single,False,0.8253678679466248
+987,UBERON:0002367 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002367,prostate gland,tissue,adult,H3K36me3,encode,single,False,0.8486926555633545
+988,UBERON:0002367 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002367,prostate gland,tissue,adult,H3K4me3,encode,single,False,0.827519953250885
+989,UBERON:0002369 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002369,adrenal gland,tissue,adult,H3K27ac,encode,single,False,0.7852216958999634
+990,UBERON:0002369 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002369,adrenal gland,tissue,embryonic,H3K27me3,encode,single,False,1.6154215335845947
+991,UBERON:0002369 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002369,adrenal gland,tissue,adult,H3K36me3,encode,single,False,0.8357100486755371
+992,UBERON:0002369 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002369,adrenal gland,tissue,adult,H3K4me1,encode,single,False,0.8265619277954102
+993,UBERON:0002369 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002369,adrenal gland,tissue,adult,H3K4me3,encode,single,False,0.9138931035995483
+994,UBERON:0002369 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0002369,adrenal gland,tissue,embryonic,H3K9me3,encode,single,False,1.4173235893249512
+995,UBERON:0002370 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002370,thymus,tissue,embryonic,H3K27ac,encode,single,False,0.9632824063301086
+996,UBERON:0002370 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0002370,thymus,tissue,embryonic,H3K27me3,encode,single,False,0.9465627074241638
+997,UBERON:0002370 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002370,thymus,tissue,embryonic,H3K36me3,encode,single,False,1.3685346841812134
+998,UBERON:0002370 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002370,thymus,tissue,embryonic,H3K4me1,encode,single,False,1.824151873588562
+999,UBERON:0002370 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002370,thymus,tissue,embryonic,H3K4me3,encode,single,False,1.1562947034835815
+1000,UBERON:0002370 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0002370,thymus,tissue,embryonic,H3K9me3,encode,single,False,1.4777132272720337
+1001,UBERON:0002686 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002686,angular gyrus,tissue,adult,H3K27ac,encode,single,False,0.9001856446266174
+1002,UBERON:0002686 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002686,angular gyrus,tissue,adult,H3K36me3,encode,single,False,0.8129374980926514
+1003,UBERON:0002686 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002686,angular gyrus,tissue,adult,H3K4me1,encode,single,False,0.8170185089111328
+1004,UBERON:0002686 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002686,angular gyrus,tissue,adult,H3K4me3,encode,single,False,0.8224157094955444
+1005,UBERON:0002686 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0002686,angular gyrus,tissue,adult,H3K9ac,encode,single,False,1.0026452541351318
+1006,UBERON:0002967 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0002967,cingulate gyrus,tissue,adult,H3K27ac,encode,single,False,0.8721300959587097
+1007,UBERON:0002967 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0002967,cingulate gyrus,tissue,adult,H3K36me3,encode,single,False,0.8179123401641846
+1008,UBERON:0002967 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0002967,cingulate gyrus,tissue,adult,H3K4me1,encode,single,False,0.8339878916740417
+1009,UBERON:0002967 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0002967,cingulate gyrus,tissue,adult,H3K4me3,encode,single,False,0.8354508876800537
+1010,UBERON:0002967 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0002967,cingulate gyrus,tissue,adult,H3K9ac,encode,single,False,1.1167891025543213
+1011,UBERON:0003124 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0003124,chorion,tissue,embryonic,H3K27ac,encode,single,False,1.1212384700775146
+1012,UBERON:0003124 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0003124,chorion,tissue,embryonic,H3K36me3,encode,single,False,1.0928360223770142
+1013,UBERON:0003124 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0003124,chorion,tissue,embryonic,H3K4me1,encode,single,False,1.134663701057434
+1014,UBERON:0003124 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0003124,chorion,tissue,embryonic,H3K4me3,encode,single,False,1.0205134153366089
+1015,UBERON:0003346 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0003346,mucosa of rectum,tissue,adult,H3K27ac,encode,single,False,1.2068597078323364
+1016,UBERON:0003346 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0003346,mucosa of rectum,tissue,adult,H3K36me3,encode,single,False,0.8918594121932983
+1017,UBERON:0003346 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0003346,mucosa of rectum,tissue,adult,H3K4me1,encode,single,False,0.9211472272872925
+1018,UBERON:0003346 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0003346,mucosa of rectum,tissue,adult,H3K4me3,encode,single,False,0.9614381790161133
+1019,UBERON:0003346 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0003346,mucosa of rectum,tissue,adult,H3K9ac,encode,single,False,0.8959307074546814
+1020,UBERON:0004222 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0004222,stomach smooth muscle,tissue,adult,H3K27ac,encode,single,False,1.061765193939209
+1021,UBERON:0004222 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0004222,stomach smooth muscle,tissue,adult,H3K27me3,encode,single,False,0.8521047234535217
+1022,UBERON:0004222 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0004222,stomach smooth muscle,tissue,adult,H3K36me3,encode,single,False,0.826144814491272
+1023,UBERON:0004222 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0004222,stomach smooth muscle,tissue,adult,H3K4me1,encode,single,False,1.913686752319336
+1024,UBERON:0004222 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0004222,stomach smooth muscle,tissue,adult,H3K4me3,encode,single,False,0.9053452610969543
+1025,UBERON:0004222 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0004222,stomach smooth muscle,tissue,adult,H3K9ac,encode,single,False,0.7713716626167297
+1026,UBERON:0004550 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0004550,gastroesophageal sphincter,tissue,adult,H3K27ac,encode,single,False,1.4019594192504883
+1027,UBERON:0004550 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0004550,gastroesophageal sphincter,tissue,adult,H3K27me3,encode,single,False,0.860275387763977
+1028,UBERON:0004550 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0004550,gastroesophageal sphincter,tissue,adult,H3K36me3,encode,single,False,0.9105188250541687
+1029,UBERON:0004550 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0004550,gastroesophageal sphincter,tissue,adult,H3K4me1,encode,single,False,0.8863487243652344
+1030,UBERON:0004550 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0004550,gastroesophageal sphincter,tissue,adult,H3K4me3,encode,single,False,0.7414591312408447
+1031,UBERON:0004550 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0004550,gastroesophageal sphincter,tissue,adult,H3K9me3,encode,single,False,0.8467487692832947
+1032,UBERON:0004648 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0004648,esophagus muscularis mucosa,tissue,adult,H3K27ac,encode,single,False,0.7982273697853088
+1033,UBERON:0004648 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0004648,esophagus muscularis mucosa,tissue,adult,H3K27me3,encode,single,False,0.9206722378730774
+1034,UBERON:0004648 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0004648,esophagus muscularis mucosa,tissue,adult,H3K36me3,encode,single,False,0.816602349281311
+1035,UBERON:0004648 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0004648,esophagus muscularis mucosa,tissue,adult,H3K4me1,encode,single,False,0.8247384428977966
+1036,UBERON:0004648 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0004648,esophagus muscularis mucosa,tissue,adult,H3K4me3,encode,single,False,0.7969858050346375
+1037,UBERON:0004648 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0004648,esophagus muscularis mucosa,tissue,adult,H3K9me3,encode,single,False,0.8506141304969788
+1038,UBERON:0004992 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0004992,mucosa of descending colon,tissue,adult,H3K4me1,encode,single,False,0.9400363564491272
+1039,UBERON:0004992 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0004992,mucosa of descending colon,tissue,adult,H3K4me3,encode,single,False,0.9843800067901611
+1040,UBERON:0004992 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0004992,mucosa of descending colon,tissue,adult,H3K9me3,encode,single,False,1.0794081687927246
+1041,UBERON:0006631 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0006631,right atrium auricular region,tissue,adult,H3K27ac,encode,single,False,1.5091086626052856
+1042,UBERON:0006631 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0006631,right atrium auricular region,tissue,adult,H3K36me3,encode,single,False,0.8356142640113831
+1043,UBERON:0006631 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0006631,right atrium auricular region,tissue,adult,H3K4me1,encode,single,False,0.8639379739761353
+1044,UBERON:0006631 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0006631,right atrium auricular region,tissue,adult,H3K4me3,encode,single,False,1.0309559106826782
+1045,UBERON:0006631 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0006631,right atrium auricular region,tissue,adult,H3K9me3,encode,single,False,0.843159556388855
+1046,UBERON:0006920 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0006920,esophagus squamous epithelium,tissue,adult,H3K27ac,encode,single,False,1.224211573600769
+1047,UBERON:0006920 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0006920,esophagus squamous epithelium,tissue,adult,H3K27me3,encode,single,False,0.9047441482543945
+1048,UBERON:0006920 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0006920,esophagus squamous epithelium,tissue,adult,H3K36me3,encode,single,False,0.8787626624107361
+1049,UBERON:0006920 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0006920,esophagus squamous epithelium,tissue,adult,H3K4me1,encode,single,False,0.8141622543334961
+1050,UBERON:0006920 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0006920,esophagus squamous epithelium,tissue,adult,H3K4me3,encode,single,False,0.8070417642593384
+1051,UBERON:0006920 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0006920,esophagus squamous epithelium,tissue,adult,H3K9me3,encode,single,False,0.8435921669006348
+1052,UBERON:0007106 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0007106,chorionic villus,tissue,embryonic,H3K27ac,encode,single,False,1.0513697862625122
+1053,UBERON:0007610 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0007610,tibial artery,tissue,adult,H3K27ac,encode,single,False,0.7654767036437988
+1054,UBERON:0007610 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0007610,tibial artery,tissue,adult,H3K27me3,encode,single,False,0.8302474021911621
+1055,UBERON:0007610 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0007610,tibial artery,tissue,adult,H3K36me3,encode,single,False,0.8503223657608032
+1056,UBERON:0007610 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0007610,tibial artery,tissue,adult,H3K4me1,encode,single,False,0.7865008115768433
+1057,UBERON:0007610 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0007610,tibial artery,tissue,adult,H3K4me3,encode,single,False,0.7735725045204163
+1058,UBERON:0007610 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0007610,tibial artery,tissue,adult,H3K9me3,encode,single,False,0.9169700741767883
+1059,UBERON:0008367 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0008367,breast epithelium,tissue,adult,H3K27ac,encode,single,False,0.7933363914489746
+1060,UBERON:0008367 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0008367,breast epithelium,tissue,adult,H3K27me3,encode,single,False,0.8398851156234741
+1061,UBERON:0008367 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0008367,breast epithelium,tissue,adult,H3K36me3,encode,single,False,0.8763333559036255
+1062,UBERON:0008367 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0008367,breast epithelium,tissue,adult,H3K4me3,encode,single,False,0.8072652816772461
+1063,UBERON:0008367 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0008367,breast epithelium,tissue,adult,H3K9me3,encode,single,False,0.8470003604888916
+1064,UBERON:0008450 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0008450,psoas muscle,tissue,adult,H3K27ac,encode,single,False,0.9119850397109985
+1065,UBERON:0008450 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0008450,psoas muscle,tissue,adult,H3K27me3,encode,single,False,0.8814289569854736
+1066,UBERON:0008450 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0008450,psoas muscle,tissue,adult,H3K36me3,encode,single,False,0.9716756343841553
+1067,UBERON:0008450 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0008450,psoas muscle,tissue,adult,H3K4me1,encode,single,False,0.8452923893928528
+1068,UBERON:0008450 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0008450,psoas muscle,tissue,adult,H3K4me3,encode,single,False,0.7766005396842957
+1069,UBERON:0008952 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0008952,upper lobe of left lung,tissue,adult,H3K27ac,encode,single,False,0.8779808282852173
+1070,UBERON:0008952 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0008952,upper lobe of left lung,tissue,adult,H3K36me3,encode,single,False,0.8125616908073425
+1071,UBERON:0008952 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0008952,upper lobe of left lung,tissue,adult,H3K4me1,encode,single,False,0.8664360642433167
+1072,UBERON:0008952 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0008952,upper lobe of left lung,tissue,adult,H3K4me3,encode,single,False,0.8021848201751709
+1073,UBERON:0008953 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0008953,lower lobe of left lung,tissue,adult,H3K27ac,encode,single,False,0.8131684064865112
+1074,UBERON:0008953 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0008953,lower lobe of left lung,tissue,adult,H3K27me3,encode,single,False,0.8400024771690369
+1075,UBERON:0008953 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0008953,lower lobe of left lung,tissue,adult,H3K36me3,encode,single,False,0.8133916854858398
+1076,UBERON:0008953 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0008953,lower lobe of left lung,tissue,adult,H3K4me1,encode,single,False,0.8141807317733765
+1077,UBERON:0008953 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0008953,lower lobe of left lung,tissue,adult,H3K4me3,encode,single,False,0.8252076506614685
+1078,UBERON:0008953 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0008953,lower lobe of left lung,tissue,adult,H3K9me3,encode,single,False,0.8201392889022827
+1079,UBERON:0009834 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0009834,dorsolateral prefrontal cortex,tissue,adult,H3K27ac,encode,single,False,0.7915490865707397
+1080,UBERON:0009834 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0009834,dorsolateral prefrontal cortex,tissue,adult,H3K27me3,encode,single,False,0.8048524856567383
+1081,UBERON:0009834 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0009834,dorsolateral prefrontal cortex,tissue,adult,H3K36me3,encode,single,False,0.8312941193580627
+1082,UBERON:0009834 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0009834,dorsolateral prefrontal cortex,tissue,adult,H3K4me1,encode,single,False,0.8213521838188171
+1083,UBERON:0009834 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0009834,dorsolateral prefrontal cortex,tissue,adult,H3K4me3,encode,single,False,0.795435905456543
+1084,UBERON:0009834 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0009834,dorsolateral prefrontal cortex,tissue,adult,H3K9ac,encode,single,False,1.0359257459640503
+1085,UBERON:0011907 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0011907,gastrocnemius medialis,tissue,adult,H3K27ac,encode,single,False,0.7793625593185425
+1086,UBERON:0011907 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0011907,gastrocnemius medialis,tissue,adult,H3K27me3,encode,single,False,1.0060234069824219
+1087,UBERON:0011907 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0011907,gastrocnemius medialis,tissue,adult,H3K36me3,encode,single,False,0.8559026122093201
+1088,UBERON:0011907 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0011907,gastrocnemius medialis,tissue,adult,H3K4me1,encode,single,False,0.7837246656417847
+1089,UBERON:0011907 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0011907,gastrocnemius medialis,tissue,adult,H3K4me3,encode,single,False,0.7359679341316223
+1090,UBERON:0012488 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0012488,muscle layer of duodenum,tissue,adult,H3K27ac,encode,single,False,0.988544225692749
+1091,UBERON:0012488 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0012488,muscle layer of duodenum,tissue,adult,H3K36me3,encode,single,False,0.8478550910949707
+1092,UBERON:0012488 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0012488,muscle layer of duodenum,tissue,adult,H3K4me1,encode,single,False,1.4443985223770142
+1093,UBERON:0012488 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0012488,muscle layer of duodenum,tissue,adult,H3K4me3,encode,single,False,0.8497915267944336
+1094,UBERON:0012488 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0012488,muscle layer of duodenum,tissue,adult,H3K9me3,encode,single,False,1.749129295349121
+1095,UBERON:0012489 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0012489,muscle layer of colon,tissue,adult,H3K27ac,encode,single,False,1.6868175268173218
+1096,UBERON:0012489 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0012489,muscle layer of colon,tissue,adult,H3K36me3,encode,single,False,0.9592627882957458
+1097,UBERON:0012489 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0012489,muscle layer of colon,tissue,adult,H3K4me1,encode,single,False,0.9385117888450623
+1098,UBERON:0012489 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0012489,muscle layer of colon,tissue,adult,H3K4me3,encode,single,False,0.8421162962913513
+1099,UBERON:0012489 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0012489,muscle layer of colon,tissue,adult,H3K9ac,encode,single,False,0.8927491307258606
+1100,UBERON:0014455 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0014455,subcutaneous abdominal adipose tissue,tissue,adult,H3K27ac,encode,single,False,1.372426986694336
+1101,UBERON:0014455 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0014455,subcutaneous abdominal adipose tissue,tissue,adult,H3K27me3,encode,single,False,0.7572541832923889
+1102,UBERON:0014455 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0014455,subcutaneous abdominal adipose tissue,tissue,adult,H3K36me3,encode,single,False,0.7747286558151245
+1103,UBERON:0014455 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0014455,subcutaneous abdominal adipose tissue,tissue,adult,H3K4me1,encode,single,False,0.8434963822364807
+1104,UBERON:0014455 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0014455,subcutaneous abdominal adipose tissue,tissue,adult,H3K4me3,encode,single,False,0.7925373911857605
+1105,UBERON:0014455 Histone ChIP-seq H3K9ac,.,Histone ChIP-seq,UBERON:0014455,subcutaneous abdominal adipose tissue,tissue,adult,H3K9ac,encode,single,False,0.7789035439491272
+1106,UBERON:0014455 Histone ChIP-seq H3K9me3,.,Histone ChIP-seq,UBERON:0014455,subcutaneous abdominal adipose tissue,tissue,adult,H3K9me3,encode,single,False,0.8017343878746033
+1107,UBERON:0018112 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0018112,rectal smooth muscle tissue,tissue,adult,H3K27ac,encode,single,False,1.4903203248977661
+1108,UBERON:0018112 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0018112,rectal smooth muscle tissue,tissue,adult,H3K36me3,encode,single,False,1.1542083024978638
+1109,UBERON:0018112 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0018112,rectal smooth muscle tissue,tissue,adult,H3K4me1,encode,single,False,0.9858405590057373
+1110,UBERON:0018112 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0018112,rectal smooth muscle tissue,tissue,adult,H3K4me3,encode,single,False,1.2279937267303467
+1111,UBERON:0036149 Histone ChIP-seq H3K27ac,.,Histone ChIP-seq,UBERON:0036149,suprapubic skin,tissue,adult,H3K27ac,encode,single,False,0.8285009860992432
+1112,UBERON:0036149 Histone ChIP-seq H3K27me3,.,Histone ChIP-seq,UBERON:0036149,suprapubic skin,tissue,adult,H3K27me3,encode,single,False,0.8321241736412048
+1113,UBERON:0036149 Histone ChIP-seq H3K36me3,.,Histone ChIP-seq,UBERON:0036149,suprapubic skin,tissue,adult,H3K36me3,encode,single,False,0.8314632773399353
+1114,UBERON:0036149 Histone ChIP-seq H3K4me1,.,Histone ChIP-seq,UBERON:0036149,suprapubic skin,tissue,adult,H3K4me1,encode,single,False,0.8719038963317871
+1115,UBERON:0036149 Histone ChIP-seq H3K4me3,.,Histone ChIP-seq,UBERON:0036149,suprapubic skin,tissue,adult,H3K4me3,encode,single,False,0.9653574824333191
